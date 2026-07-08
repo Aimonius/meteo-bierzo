@@ -15,15 +15,15 @@ jobs:
       - name: Clonar repositorio
         uses: actions/checkout@v4
 
-      - name: Descargar CSV de AEMET
+      - name: Descargar XLS de AEMET
         run: |
           FECHA=$(date +'%Y-%m-%d')
           URL="https://www.aemet.es/es/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&l=1549&datos=det&w=2&f=tmax&x=d07"
-          curl -sL -A "Mozilla/5.0" "$URL" -o "datos_aemet/aemet_1549_${FECHA}.csv"
+          curl -sL -A "Mozilla/5.0" "$URL" -o "datos_aemet/aemet_1549_${FECHA}.xls"
 
       - name: Comprobar que el archivo no está vacío
         run: |
-          if [ ! -s "datos_aemet/aemet_1549_$(date +'%Y-%m-%d').csv" ]; then
+          if [ ! -s "datos_aemet/aemet_1549_$(date +'%Y-%m-%d').xls" ]; then
             echo "El archivo descargado está vacío, algo falló."
             exit 1
           fi
@@ -32,6 +32,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add datos_aemet/*.csv
+          git add datos_aemet/*.xls
           git diff --staged --quiet || git commit -m "Datos AEMET del $(date +'%Y-%m-%d')"
           git push
