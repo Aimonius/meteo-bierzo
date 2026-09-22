@@ -1,0 +1,1857 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
+<meta name="description" content="Ponferrada" />
+<meta name="keywords" content="AEMET,Estatal,Meteorología,España,Agencia,Nacional,El Tiempo,Tiempo,Ponferrada,León" />
+<meta name="author" content="Agencia Estatal de Meteorología" />
+
+
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+
+<meta name="title" content="Ponferrada - Agencia Estatal de Meteorología - AEMET. Gobierno de España" />
+<meta name="DC.title" content="Ponferrada - Agencia Estatal de Meteorología - AEMET. Gobierno de España" />
+<meta name="distribution" content="global" />
+
+<meta name="lang" content="es" />
+<meta name="language" content="es" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15" />
+
+<meta property="og:title" content="Ponferrada - Agencia Estatal de Meteorología - AEMET. Gobierno de España"/>
+<meta property="og:image" content="https://www.aemet.es/imagenes/gif/logo_AEMET_og.gif"/>
+<meta name="application-name" content="Agencia Estatal de Meteorología - AEMET. Gobierno de España" />
+<meta name="msapplication-tooltip" content="Agencia Estatal de Meteorología - AEMET. Gobierno de España" />
+<meta name="msapplication-starturl" content="https://www.aemet.es/es/portada" />
+<meta name="msapplication-navbutton-color" content="#4F86D9" />
+<meta name="msapplication-window" content="width=1024;height=768" /> 
+<meta name="msapplication-task"
+      content="name=Inicio, Agencia Estatal de Meteorología;
+      action-uri=https://www.aemet.es/es/portada;
+      icon-uri=https://www.aemet.es/favicon.ico" />
+<meta name="msapplication-task"
+      content="name=El tiempo, España;
+      action-uri=https://www.aemet.es/es/eltiempo/prediccion/espana;
+      icon-uri=https://www.aemet.es/imagenes/ico/ico_municipios.ico" />
+<meta name="msapplication-task"
+      content="name=El tiempo, Búsqueda por municipios españoles;
+      action-uri=https://www.aemet.es/es/eltiempo/prediccion/municipios;
+      icon-uri=https://www.aemet.es/imagenes/ico/ico_municipios.ico" />
+<meta name="msapplication-task" 
+      content="name=Avisos;
+      action-uri=https://www.aemet.es/es/eltiempo/prediccion/avisos;
+      icon-uri=https://www.aemet.es/imagenes/ico/ico_avisos.ico" />
+<meta name="msapplication-task" 
+      content="name=Noticias;
+      action-uri=https://www.aemet.es/es/noticias;
+      icon-uri=https://www.aemet.es/favicon.ico" />      
+<meta name="msapplication-task" 
+      content="name=Hoy y últimos días;
+      action-uri=https://www.aemet.es/es/eltiempo/observacion/ultimosdatos;
+      icon-uri=https://www.aemet.es/favicon.ico" />
+<title>Ponferrada - Agencia Estatal de Meteorología - AEMET. Gobierno de España</title>
+<!-- <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,700' rel='stylesheet' type='text/css' /> -->
+<script type="text/javascript" src="/ruxitagentjs_ICA7NVfqrux_10345260810170330.js" data-dtconfig="app=ea7c4b59f27d43eb|cuc=v6ogc8fs|owasp=1|mel=100000|expw=1|featureHash=ICA7NVfqrux|dpvc=1|lastModification=1789578273312|tp=500,50,0|rdnt=1|uxrgce=1|srbbv=2|agentUri=/ruxitagentjs_ICA7NVfqrux_10345260810170330.js|reportUrl=/rb_bf68775ubu|rid=RID_-668507229|rpid=-807301899|domain=aemet.es"></script><link rel="stylesheet" type="text/css" href="/css/fonts.css"  />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/estilos_202609211015.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/css/printer_friendly_202609211015.css" />
+<link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"  />
+<link rel="stylesheet" type="text/css" href="/css/animate.css"  />
+<link rel="stylesheet" type="text/css" href="/css/portlets/portlets.css"  />
+<!-- Important Owl stylesheet -->
+<link rel="stylesheet" type="text/css" href="/css/owl-carousel/owl.carousel.css" />
+<!-- Default Theme -->
+<link rel="stylesheet" type="text/css" href="/css/owl-carousel/owl.theme.css" />
+<!-- MediaElement -->
+<link rel="stylesheet" type="text/css" href="/css/mediaelements/mediaelementplayer.min.css" />
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+
+<!-- Include js owl plugin -->
+<script type="text/javascript" src="/js/owl-carousel/owl.carousel.min.js"></script>
+<script type="text/javascript" src="/js/wow/wow.min.js" ></script>
+<link rel="bookmark" href="https://www.aemet.es/es/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" />
+<link rel="canonical" href="https://www.aemet.es/es/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" />
+<link rel="help" href="/es/ayuda" />
+<link rel="copyright" href="/es/nota_legal" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+<link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png"/>
+<link rel="alternate" type="text/html" href="https://www.aemet.es/es/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" hreflang="es" lang="es" />
+<link rel="alternate" type="text/html" href="https://www.aemet.es/ca/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" hreflang="ca" lang="ca" />
+<link rel="alternate" type="text/html" href="https://www.aemet.es/gl/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" hreflang="gl" lang="gl" />
+<link rel="alternate" type="text/html" href="https://www.aemet.es/va/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" hreflang="ca-valencia" lang="ca-valencia" />
+<link rel="alternate" type="text/html" href="https://www.aemet.es/eu/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" hreflang="eu" lang="eu" />
+<link rel="alternate" type="text/html" href="https://www.aemet.es/en/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" hreflang="en" lang="en" />
+<link rel="alternate" type="text/html" href="https://www.aemet.es/fr/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" hreflang="fr" lang="fr" />
+</head>
+<body>
+<div id="capa_global"></div>
+<div id="popup_cookies" class="pop_up_cookies">
+	<div>
+		<div class="padding_popup contenido_popup_cookies">
+			<div class="marginbottom15px">
+			<button class="boton_cookies" onclick="aceptaCookies();$('#popup_cookies').remove();">Aceptar cookies</button>
+			<div class="texto_entradilla">Información sobre uso de cookies</div>
+			</div>
+			<div class="notas_tabla"><p>Este sitio web utiliza cookies propias y de terceros para mejorar la experiencia de navegación, y ofrecer contenidos y funcionalidades de interés. Para más información sobre las cookies utilizadas consulta nuestra&nbsp;
+				<a class="enlace_informacion enlace_ver_politica_cookies" href="/es/politica_cookies">política de cookies</a>
+				</p>
+			</div>	
+		</div>
+	</div>
+</div>
+<div class="fondo_cabecera" data-hide-print="true">
+	<div class="cabecera_transp">
+		<div class="fuera">
+			<h1>
+				Agencia Estatal de Meteorología</h1>
+			<ul>
+			 	<li>
+			 		<a href="#contenido" accesskey="c">C&nbsp;-&nbsp;Ir a contenido</a>
+			 	</li>
+	    		<li>
+	    			<a href="/es/accesibilidad" accesskey="0">0&nbsp;-&nbsp;Accesibilidad web</a></li>
+	    		<li>
+	    			<a href="/es/portada" accesskey="1">1&nbsp;-&nbsp;Inicio</a></li>    		
+	    		<li>
+	    			<a href="/es/mapaweb" accesskey="2">2&nbsp;-&nbsp;Mapa web</a></li>
+		   		<li>
+		   			<a href="/es/ayuda" accesskey="3">3&nbsp;-&nbsp;Ayuda web</a></li>    		
+		   		<li>
+	<a href="/es/contactar" accesskey="4">4&nbsp;-&nbsp;Contactar - Atención al ciudadano</a></li>
+		   		<li>
+		   			<a href="/es/eltiempo/prediccion/municipios" accesskey="5">5&nbsp;-&nbsp;Municipios</a></li>
+		   		<li>
+		   			<a href="/es/eltiempo/prediccion/avisos" accesskey="6">6&nbsp;-&nbsp;Avisos</a></li>	   			   				  	
+			</ul>
+		</div>
+		<div class="logo">
+			<div class="logo1">
+			 	<a aria-label="Agencia Estatal de Meteorología" class="enlace_aemet" title="Agencia Estatal de Meteorología" href="/es/portada"></a> 
+			    <a aria-label="Ministerio para la Transición Ecológica y el Reto Demográfico.&nbsp;(se abrirá en una ventana nueva)" target="_blank" class="enlace_magrama" title="Ministerio para la Transición Ecológica y el Reto Demográfico.&nbsp;(se abrirá en una ventana nueva)" href="https://www.miteco.gob.es"></a>
+
+
+				<picture>
+					<source media="(max-width: 999px)" srcset="/imagenes/svg/logo_AEMET_web_cabecera1_mov.svg">
+					<source media="(min-width: 1000px)" srcset="/es/imagen-logo1">
+					<img id="logo-principal" src="/es/imagen-logo1" alt="Agencia Estatal de Meteorología" title="Agencia Estatal de Meteorología"/>
+				</picture>
+
+			</div>
+			<div class="logo2">
+				</div>
+		</div>
+		<div class="menu_cabecera">
+			<ul>	
+	    		<li>
+					<div class="contenedor_idiomas_mini">
+						<input type="checkbox" id="idiomas_mini" class="checkbox_oculto_idiomas" /><label for="idiomas_mini" class="nav_select_idiomas">					
+						
+							es
+							<span class="arrow-down_white margin_combo_mini_idioma">&nbsp;</span></label>
+					   <ul class="nav_idiomas">
+							<li><a class="separador_idiomas" lang="es" hreflang="es" href="https://www.aemet.es/es/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Español">es</a></li>
+							<li><a class="separador_idiomas" lang="ca" hreflang="ca" href="https://www.aemet.es/ca/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Català">ca</a></li>
+							<li><a class="separador_idiomas" lang="gl" hreflang="gl" href="https://www.aemet.es/gl/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Galego">gl</a></li>
+							<li><a class="separador_idiomas" lang="ca-valencia" hreflang="ca" href="https://www.aemet.es/va/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Valencià">va</a></li>
+							<li><a class="separador_idiomas" lang="eu" hreflang="eu" href="https://www.aemet.es/eu/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Euskara">eu</a></li>
+							<li><a class="separador_idiomas" lang="en" hreflang="en" href="https://www.aemet.es/en/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="English">en</a></li>
+							<li><a class="separador_idiomas" lang="fr" hreflang="fr" href="https://www.aemet.es/fr/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Français">fr</a></li>					
+					   </ul>
+					</div>	    		
+					<div class="contenedor_idiomas">
+						<input type="checkbox" id="idiomas" class="checkbox_oculto_idiomas" /><label for="idiomas" class="nav_select_idiomas">					
+						Bienvenido<span class="arrow-down_white">&nbsp;</span></label>
+					   <ul class="nav_idiomas">
+							<li><a class="separador_idiomas" lang="es" hreflang="es" href="https://www.aemet.es/es/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Español">Bienvenido</a></li>
+							<li><a class="separador_idiomas" lang="ca" hreflang="ca" href="https://www.aemet.es/ca/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Català">Benvinguts</a></li>
+							<li><a class="separador_idiomas" lang="gl" hreflang="gl" href="https://www.aemet.es/gl/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Galego">Benvidos</a></li>
+							<li><a class="separador_idiomas" lang="ca-valencia" hreflang="ca" href="https://www.aemet.es/va/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Valencià">Benvinguts</a></li>
+							<li><a class="separador_idiomas" lang="eu" hreflang="eu" href="https://www.aemet.es/eu/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Euskara">Ongi etorri</a></li>
+							<li><a class="separador_idiomas" lang="en" hreflang="en" href="https://www.aemet.es/en/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="English">Welcome</a></li>
+							<li><a class="separador_idiomas" lang="fr" hreflang="fr" href="https://www.aemet.es/fr/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" title="Français">Bienvenue</a></li>					
+					   </ul>
+					</div>
+	    		</li>
+<!-- 				<li class="barra_separadora">|</li>			 -->
+	    		<li>
+	    			<label for="buscador_oculto" class="nav_select_buscador"><span class="fuera">Buscador oculto</span></label>
+					<input type="checkbox" id="buscador_oculto" class="checkbox_oculto_buscador" />
+					<div class="caja_contenedor_busqueda icono_red_social_cabecera">	
+						<form id="FrmBuscador" method="get" action="/es/buscador"><div class="contenedor_buscador">									
+								<input class="texto_buscador" value="Introduzca texto" aria-label ="Introduzca texto" name="str" id="buscar" onfocus="this.value=(this.value=='Introduzca texto') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Introduzca texto' : this.value;"/>
+								<input type="hidden" name="modo" value="and" /><input type="hidden" name="orden" value="n" /><input type="hidden" name="tipo" value="sta" /><input type="submit" value=" " class="boton_buscar_cabecera" title="Buscar" alt="Buscar" /></div>	
+						</form></div>     			
+		   		</li>
+			</ul>
+		</div>
+	</div>
+<div class="contenedor_menu_web">
+<div class="inner">
+	    <div class="div_nav">
+			<label class="label_checkbox_menu" for="nav"><span class="fuera">Menú</span></label>
+			<input class="checkbox_menu" type="checkbox" id="nav" />
+		<ul class="nav nav_ul"><!--
+
+
+--><li><a class="enlace_menuweb_1er_nvl" href="/es/eltiempo">El tiempo</a>
+<ul>
+<li class="menu_segundo_nivel"><a class="enlace_menuweb_2o_nvl" href="/es/eltiempo/observacion">Observación</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/observacion/ultimosdatos"  >Hoy y últimos días</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/observacion/sinobas"  >SINOBAS</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/observacion/radar"  >Radar</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/observacion/satelite/infra"  >Satélites</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/observacion/rayos"  >Rayos</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/observacion/radiacion/radiacion"  >Radiación y ozono</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/observacion/contaminacionfondo"  >Contaminación de fondo</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/observacion/camp_antarticas"  >Campañas Antárticas</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/observacion/tiempo_espacial"  >Tiempo espacial</a></li>
+
+</ul>
+</li>
+<li class="menu_segundo_nivel"><a class="enlace_menuweb_2o_nvl" href="/es/eltiempo/prediccion">Predicción</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/avisos"  >Avisos</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/municipios"  >Municipios</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/playas"  >Playas</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/montana"  >Montaña</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/comunidades"  >CC. AA.</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/espana"  >España</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/mundo"  >Ciudades del mundo</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/maritima"  >Marítima</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/aeronautica"  >Aeronáutica</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/mapa_frentes"  >Mapas con frentes</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/temperaturas"  >Temperaturas máx/mín</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/modelosnumericos/harmonie_arome"  >Modelos numéricos</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/mapas_probabilisticos"  >Mapas probabilísticos</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/radiacionuv"  >Radiación ultravioleta</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/calidad_del_aire"  >Composición química de la atmósfera</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/incendios"  >Incendios</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/meteoruta"  >MeteoRuta</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/eltiempo/prediccion/polvo_mineral"  >Intrusiones de polvo mineral sahariano</a></li>
+
+</ul>
+</li>
+</ul>
+</li><!--
+
+
+
+
+--><li><a class="enlace_menuweb_1er_nvl" href="/es/serviciosclimaticos">Servicios climáticos</a>
+<ul>
+<li class="menu_segundo_nivel"><a class="enlace_menuweb_2o_nvl" href="/es/serviciosclimaticos/datosclimatologicos">Datos climatológicos</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos"  >Valores normales</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/datosclimatologicos/efemerides_extremos"  >Valores extremos</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/datosclimatologicos/superacion_umbrales"  >Superación de umbrales</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/datosclimatologicos/efemerides_sucesos"  >Efemérides</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/datosclimatologicos/fenologia"  >Fenología</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/datosclimatologicos/atlas_climatico"  >Atlas climáticos</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/datosclimatologicos/series-centenarias"  >Series centenarias</a></li>
+
+</ul>
+</li>
+<li class="menu_segundo_nivel"><a class="enlace_menuweb_2o_nvl" href="/es/serviciosclimaticos/vigilancia_clima">Vigilancia del clima</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/vigilancia_clima/resumenes"  >Resúmenes climatológicos</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/vigilancia_clima/analisis_estacional"  >Análisis estacional</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/vigilancia_clima/vigilancia_sequia"  >Vigilancia de la sequía meteorológica</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/vigilancia_clima/balancehidrico"  >Balance hídrico</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/vigilancia_clima/resumen_precipitaciones"  >Resumen de precipitaciones</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/vigilancia_clima/radiacion_ozono"  >Radiación y ozono</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/vigilancia_clima/composicion-atmosferica-izana"  >Composición atmosférica en Izaña</a></li>
+
+</ul>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/pesc"  >Plataforma Estatal de Servicios Climáticos</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/prediccion_estacional"  >Predicción estacional</a>
+</li>
+<li class="menu_segundo_nivel"><a class="enlace_menuweb_2o_nvl" href="/es/serviciosclimaticos/cambio_climat">Proyecciones climáticas para el siglo XXI</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/cambio_climat/proyecciones-AR6"  >AR6: Escenarios PNACC</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/cambio_climat/visor-AdapteCCa"  >Visor AdapteCCa</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/cambio_climat/proyecciones-AR5-y-anteriores"  >AR5 y anteriores</a></li>
+
+</ul>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/apoyo_gestion_embalses"  >Apoyo a la gestión de embalses</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/serviciosclimaticos/catalogo"  >Catálogo</a>
+</li>
+</ul>
+</li><!--
+
+
+
+
+--><li><a class="enlace_menuweb_1er_nvl" href="/es/conocenos">Conócenos</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/conocenos/quienes_somos"  >Quiénes somos</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocenos/a_que_nos_dedicamos"  >A qué nos dedicamos</a>
+</li>
+<li class="menu_segundo_nivel"><a class="enlace_menuweb_2o_nvl" href="/es/conocenos/transparencia">Transparencia</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/conocenos/transparencia/institucional-organizativa-planificacion"  >Institucional, Organizativa y de Planificación</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/conocenos/transparencia/relevancia-juridica"  >Jurídica</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/conocenos/transparencia/economica-presupuestaria-estadistica"  >Económica, Presupuestaria y Estadística</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/conocenos/transparencia/solicitudes-accesos-inf-publica"  >Solicitudes de accesos a la información pública</a></li>
+
+</ul>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocenos/recursos"  >Nuestros recursos</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocenos/nuestra_historia"  >Nuestra historia</a>
+</li>
+<li class="menu_segundo_nivel"><a class="enlace_menuweb_2o_nvl" href="/es/conocenos/congresos_y_conferencias">Congresos y conferencias</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/conocenos/congresos_y_conferencias/congresos"  >Anuncios</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/conocenos/congresos_y_conferencias/reuniones"  >Reuniones y conferencias</a></li>
+
+</ul>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocenos/colaboracion_institucional/convenios"  >Colaboración institucional</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocenos/cursos"  >Cursos</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocenos/actividad_internacional"  >Actividad internacional</a>
+</li>
+</ul>
+</li><!--
+
+
+
+
+--><li><a class="enlace_menuweb_1er_nvl" href="/es/idi">I+D+i</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/idi/transformacion_digital"  >Transformación digital</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/idi/prediccion"  >Predicción</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/idi/clima"  >Clima </a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/idi/medio_ambiente"  >Medio ambiente</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/idi/tic"  >Innovación tecnológica</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/idi/observacion"  >Observación</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/idi/SAF_Nowcasting"  >SAF de Nowcasting</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/idi/CIAI"  >CIAI</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/idi/SDS-WAS"  >SDS-WAS</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/idi/publicaciones_cientificas"  >Publicaciones científicas</a>
+</li>
+</ul>
+</li><!--
+
+
+
+
+--><li><a class="enlace_menuweb_1er_nvl" href="/es/conocermas">Conocer más</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/conocermas/aeronautica"  >Aeronáutica</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocermas/maritima"  >Marítima</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocermas/montana"  >Montaña</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocermas/archivo_documental_Arcimis"  >Archivo documental Arcimis</a>
+</li>
+<li class="menu_segundo_nivel"><a class="enlace_menuweb_2o_nvl" href="/es/conocermas/biblioteca">Biblioteca</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/conocermas/biblioteca/catalogo"  >Catálogo</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/conocermas/biblioteca/boletines"  >Boletín meteorológico</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/conocermas/biblioteca/exposiciones"  >Exposiciones</a></li>
+
+</ul>
+</li>
+<li class="menu_segundo_nivel"><a class="enlace_menuweb_2o_nvl" href="/es/conocermas/recursos_en_linea">Recursos en línea</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/conocermas/recursos_en_linea/publicaciones_y_estudios"  >Publicaciones y estudios</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/conocermas/recursos_en_linea/calendarios"  >Calendario meteorológico</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/conocermas/recursos_en_linea/elobservador"  >El Observador</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/conocermas/recursos_en_linea/selecciones_del_blog"  >Selecciones del blog</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/conocermas/recursos_en_linea/simposios_prediccion"  >Simposios de predicción</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/conocermas/recursos_en_linea/modulos-tempo"  >Biblioteca de módulos TEMPO</a></li>
+
+</ul>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocermas/aemet-divulga"  >AEMET Divulga</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocermas/dia_meteorologico"  >Día Meteorológico Mundial</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocermas/modificacion_artificial_tiempo"  >Modificación artificial del tiempo</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocermas/meteo_glosario_visual"  >MeteoGlosario Visual</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/conocermas/borrascas/2026-2027"  >Borrascas y danas con gran impacto</a>
+</li>
+</ul>
+</li><!--
+
+
+
+
+--><li><a class="enlace_menuweb_1er_nvl" href="/es/empleo_y_becas">Empleo público y becas</a>
+<ul>
+<li class="menu_segundo_nivel"><a class="enlace_menuweb_2o_nvl" href="/es/empleo_y_becas/empleo_publico">Empleo público</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/empleo_y_becas/empleo_publico/ingresar_en_la_aemet"  >Ingresar en AEMET</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/empleo_y_becas/empleo_publico/oposiciones"  >Oposiciones</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/empleo_y_becas/empleo_publico/funcionarios_interinos"  >Funcionarios interinos</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/empleo_y_becas/empleo_publico/personal_laboral"  >Personal laboral</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/empleo_y_becas/empleo_publico/condiciones_de_trabajo"  >Condiciones de trabajo</a></li>
+
+</ul>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/empleo_y_becas/concursos"  >Concursos</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/empleo_y_becas/libre_designacion"  >Libre designación</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/empleo_y_becas/practicas"  >Prácticas</a>
+</li>
+<li class="menu_segundo_nivel"><a class="enlace_menuweb_2o_nvl" href="/es/empleo_y_becas/becas">Becas</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/empleo_y_becas/becas/informacion_de_interes"  >Información de interés</a></li>
+
+<li><a class="enlace_3er_nvl" href="/es/empleo_y_becas/becas/convocatorias"  >Convocatorias</a></li>
+
+</ul>
+</li>
+</ul>
+</li><!--
+
+
+
+
+--><li><a class="enlace_menuweb_1er_nvl" href="/es/datos_abiertos">Datos abiertos</a>
+<ul>
+<li><a class="enlace_3er_nvl" href="/es/datos_abiertos/catalogo"  >Catálogo. Plan RISP</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/datos_abiertos/AEMET_OpenData"  >AEMET OpenData</a>
+</li>
+<li><a class="enlace_3er_nvl" href="/es/datos_abiertos/estadisticas"  >Estadísticas</a>
+</li>
+</ul>
+</li><!--
+
+
+
+
+--><li><a class="enlace_3er_nvl" href="/es/sede_electronica"  >Sede electrónica</a></li><!--
+
+
+
+--></ul></div>
+	  </div>	
+<script src="/js/doubletaptogo.min.js"></script>
+<script>
+	$(function(){
+		$('.div_nav li:has(ul)').doubleTapToGo();
+	});
+</script>
+
+
+</div>	
+</div>
+<div id="cabecera" class="cabecera_verano">	
+	<div class="contenedor_cabecera_menu_iconos">
+		<div id="semaforo-cabecera"></div>
+		</div>	
+	<div id="contenedor" class="contenedor fade">
+		<div>
+			<link rel="stylesheet" href="/css/leaflet/leaflet.css" />
+<link rel="stylesheet" href="/css/jquery-ui.css" />
+<link rel="stylesheet" href="/css/api/variables.css" />
+<link rel="stylesheet" href="/css/api/tabs.css" />
+<link rel="stylesheet" href="/css/api/udat-tabla-graficas.css" />
+
+<script type="text/javascript" src="/js/animacion.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.js"></script>
+
+<script src="/js/leaflet/leaflet.js"></script>
+<script src="/js/leaflet/leaflet-extend.js"></script>
+<script src="/js/jquery-ui.js"></script>
+<script src="/js/topojson/topojson.min.js"></script>
+<script src='/js/maps/maps.js'></script>
+
+<script src="/js/jquery.flot.js"></script>
+<script src="/js/jquery.flot.stacks.js"></script>
+<script src="/js/xlsx.mini.min.js"></script>
+<script src="/js/mpb/mpb_udat_diarios.js"></script>
+<div class="rastro">
+	<div class="rastro_enlaces_largo">
+			<a href="/es/portada">Inicio</a><span> &rsaquo; </span><a href="/es/eltiempo">El tiempo</a><span> &rsaquo; </span><a href="/es/eltiempo/observacion">Observación</a></div>
+		</div>
+<a id="contenido"></a><input id="fecha-inicio-PB" type="hidden" value="2026-09-22T16:00:00+02:00"/>
+<input id="locale-id" type="hidden" value="es" />
+<div id="contenedor" class="contenedor fade">
+	<ul class="content-iconos-info">
+		<li><a
+			href="/es/eltiempo/observacion/ultimosdatos/ayuda">
+				<img
+				src="/imagenes/svg/ico_ayuda.svg" alt="+Info"
+				title="+Info">
+		</a></li>
+	</ul>
+	<h2 class="titulo">
+		Hoy y últimos días</h2>
+	
+	<div class="contenedor_izq">
+		<div class="aemet_fila">
+            <div class="nomargen">            
+				<div class="botones-modelo">
+					<!-- TODO: REMOVE DIEZM DEBUG FLAG - Eliminar este c:if cuando se autorice la pestaï¿?a de diezm -->
+					<a href="/es/eltiempo/observacion/ultimosdatos?w=1" class="boton-modelo" data-hide-print="true"
+				    	title="Datos horarios ">
+					    Datos horarios </a>
+				    <a href="#" class="boton-modelo selected"
+					    title="Datos diarios">
+					    Datos diarios</a>
+				</div>            
+            </div>
+	    </div>
+		<input id="initLocation" type="hidden" data-init-location="6724" data-init-estacion="1549"/>
+		<input id="initZoom" type="hidden" value="9"/>
+		<input id="initLocationName" type="hidden" value="24"/>
+		<div class="aemet_fila">
+			<div id="contenedor-opciones" class="aemet_col30 nomargen" data-hide-print="true">
+				<div id="selector-ambito"
+					data-ambito=""
+					data-init-zoom="6"
+					class="aemet"></div>
+				<div id="maximizar"
+				
+					style="background-color: #ededed; text-align: right">
+					<img id="img_maximar" src="/imagenes/png/btn_max_1.png"
+						class="btn_visor" title="Maximizar Visor"> <img
+						id="img_minimizar" src="/imagenes/png/btn_min_1.png"
+						class="btn_visor" title="Minimizar Visor" style="display: none;">
+				</div>
+				<div class="secciones">
+					<div id="pestanas-dias" class="seccion-menu aemet"></div>
+					<div id="menu-fenomenos" class="seccion-menu aemet">
+						<div class="timeline-dias aemet" id="lista-variables"></div>
+					</div>
+				</div>
+			</div>
+
+			<div class="aemet_col70 nomargen">
+				<div class="menu-mapa">
+					<ul class="tabs_descarga">
+						<li><p id="variable-seleccionada" class="variable-selec" data-hide-print="false"></p></li>					
+						<li data-hide-print="true"><img id="descarga_mapa" class="icono-descarga-geotopo" src="/imagenes/svg/ico_descarga_mapa.svg" alt="icono-mapa" title="Descarga de Mapa"></li>
+						<li data-hide-print="true"><a 
+							href="/es/geojson/download/udat/udat_descarga_1790086157.tar.gz"
+							target="_new">
+								<img class="icono-descarga-geotopo" src="/imagenes/svg/ico_descarga.svg" alt="icono_descarga" title="Descarga de datos georeferenciados">
+							</a></li>
+					</ul>
+				</div>
+				<div id="mapa" class="content-mapa"></div>
+				<div id="opciones-layers-map" data-hide-print="true"></div>
+				<div id="fecha-seleccionada" class="hide centrado cap-first pt-1" data-hide-print="false"></div>
+			</div>
+		</div>
+		<div class="aemet_fila prediccion-line" data-hide-print="true">
+			<div class="aemet_col10">
+				<div class="media-control">
+					<img src="/imagenes/png/iconos/ico_play.png" id="img-animacion">
+					<div class="speed-control">
+						<span class="speed-value">1x</span>
+						<div class="speed-button"></div>
+					</div>
+				</div>
+
+			</div>
+			<div class="aemet_col90">
+				<div id="pestanas-horas" class="scrolltimeline"></div>
+			</div>
+		</div>
+		<div class="aemet_fila">
+			<div class="aemet_col100 row title pre-localizacion">
+				<h3 id="msg-localizacion">24</h3>
+			</div>
+		</div>
+		<div class="aemet_fila" id="detalles-estacion">
+				<div class="row title" id="table-details-title">
+					<h3>Hoy y últimos días: Ponferrada</h3>
+				</div>
+				<div class="notas_tabla">
+					<span class="font_bold">Ind. climatológico</span>:&nbsp;1549&nbsp;-&nbsp;
+					<span class="font_bold">Altitud (m)</span>:&nbsp;532<br/>
+					<span class="geo">
+						<span class="font_bold">Latitud</span>:&nbsp;<abbr class="latitude" title="42.5638888889">42&#176; 33' 50'' N</abbr>&nbsp;-&nbsp;<span class="font_bold">Longitud</span>:&nbsp;<abbr class="longitude" title="-6.6000000000">6&#176; 36' 0'' O</abbr>&nbsp;-&nbsp;
+					</span>
+					<span class="font_bold">Posición</span>:&nbsp;<a class="enlace_web" onkeypress="if(window.event.keyCode!=13)return false;javascript:window.open('http://maps.google.es/?q=%4042.5638888889%2C-6.6000000000&amp;t=p&amp;ll=42.5638888889%2C-6.6000000000&amp;spn=0.182837%2C0.291824&amp;z=11&amp;output=embed','_blank','location=yes,toolbar=no,menubar=no,personalbar=no,resizable=yes,scrollbars=yes,hotkeys=no,top=0,left=0,width=800,height=600');return false;" onclick="javascript:window.open('http://maps.google.es/?q=%4042.5638888889%2C-6.6000000000&amp;t=p&amp;ll=42.5638888889%2C-6.6000000000&amp;spn=0.182837%2C0.291824&amp;z=11&amp;output=embed','Mapa','location=yes,toolbar=no,menubar=no,personalbar=no,resizable=yes,scrollbars=yes,hotkeys=no,top=0,left=0,width=800,height=600');return false;" target="_blank" href="http://maps.google.es/?q=%4042.5638888889%2C-6.6000000000&amp;t=p&amp;ll=42.5638888889%2C-6.6000000000&amp;spn=0.182837%2C0.291824&amp;z=11&amp;output=embed" title="Ver localización (se abrirá en una ventana nueva)">Ver localización</a>
+					<br/>
+						<span class="font_bold">Municipio</span>:&nbsp;<a class="enlace_web" href="/es/eltiempo/prediccion/municipios/ponferrada-id24115" title="Ver localización (se abrirá en una ventana nueva)">Ponferrada&nbsp;(León)&nbsp;-&nbsp;Ver predicción</a>
+					</div>
+			</div>
+		<div class="aemet_fila">
+			<div class="mt-1" id="tabla-resumen-estaciones"></div>
+		</div>
+		<div class="aemet_fila">
+			<div class="" id="graficas-estaciones"></div>
+		</div>
+		<div class="aemet_fila">
+        	<div id="selector-ubicacion"></div>
+		</div>
+		
+		<div class="separador pre-localizacion"></div>
+	    <div class="aemet_fila">
+	    	<div class="contenedor_contenido marginbottom35px">
+	    		<form name="frmLoc" method="get" action="/es/eltiempo/observacion/ultimosdatos">
+	    			<input type="hidden" name="modo" value="and"/>
+	    			<input type="hidden" name="orden" value="n"/>
+	    			<input type="hidden" name="tipo" value="sta"/>
+	    			<input type="hidden" name="w" value="2"/>
+	    			<div class="titulo">
+	    				<label class="form_nombre_campo" for="buscar_loc">
+	    					Buscar estación por nombre:</label>
+	    			</div>
+	    			<div class="contenedor_central">
+	    				<input type="text" name="str" value="Introduzca un texto a buscar" onblur="this.value=(this.value=='') ? 'Introduzca un texto a buscar' : this.value;" onfocus="this.value=(this.value=='Introduzca un texto a buscar') ? '' : this.value;" id="buscar_loc" class="form_textbox_localidades" /><div class="align_right">
+	    					<input type="submit" value="Buscar" class="form_submit" /></div>
+	    			</div>
+	    		</form>
+	    	</div>
+	    </div>
+		
+		<div class="contenedor_central_izq contenedor_contenido marginbottom35px">
+    <h3 class="titulo">
+        <a id="enlaces_asociados"  class="font_bold">
+            Enlaces relacionados:</a>
+    </h3>
+
+    <ul class="lincks">
+    <li>
+            <a href="https://www.aemet.es/es/eltiempo/observacion/sinobas" title="SINOBAS" target="_self">
+                SINOBAS: SIstema de Notificación de OBservaciones Atmosféricas Singulares</a>
+        </li>
+    </ul>
+</div>
+<div class="disclaimer">En esta página podrá acceder, en forma gráfica y en tabla, a las observaciones horarias de las últimas 24 horas, así como a los valores extremos y acumulados desde las 00 horas del día hasta la hora de actualización indicada, obtenidos en la red de estaciones de Aemet. También podrá acceder a los resúmenes diarios de estas estaciones en los últimos 7 días.<br/><br/>En el mapa aparecen estaciones con valor numérico y otras representadas por un punto. En las primeras, al pasar el ratón,  aparece un desplegable con la información de la estación para la variable seleccionada. Las estaciones representadas por un punto son estaciones de la red climatológica, con transmisión de datos superior a la hora, por lo que al seleccionarlas pueden no aparecer los últimos datos, o bien estaciones de las que no se dispone de datos en el momento de la visualización.<br/><br/>Los datos presentados han sido únicamente sometidos a controles de calidad en tiempo real, por lo que no puede garantizarse la ausencia de errores.</div>
+	</div>
+</div>
+
+<script>
+
+	var literalesJS = {"ultimos.literal.espanha":"Seleccione la Comunidad Autónoma o Ciudad Autónoma","ultimos.literal.dir.ESE":"Del Este-Sureste","ultimos.img.espanha":"\/imagenes\/jpg\/mapas\/mapa_udat.jpg","ultimos.literal.grafica.dato_hasta":"","ultimos.literal.resumendiasanteriores":"Resúmenes diarios anteriores","ultimos.literal.unidad.grp_viento":"km\/h","imagenes.rissagas.alt":"Rissagas","ultimos.literal.grafica.precipitacion":"bars","ultimos.literal.dir.abbr.NNE":"NNE","imagenes.12n.alt":"Poco nuboso","ultimos.literal.temperatura":"Temperatura (&#176;C)","bal":"Illes Balears","ultimos.literal.imagen_etiqueta.grp_pre":"","ultimos.literal.abbr.preacumulada":"Pre. acu.","imagenes.26.alt":"Cubierto con lluvia","ultimos.literal.ver_municipio":"Ver predicción","ultimos.literal.ocultar_tabla":"Ocultar tabla","ccaa.prediccion.literal.espanha":"Seleccione la Comunidad Autónoma o Ciudad Autónoma","ultimos.mapeo_valor_buscar_nombre_mejor.nw":"NO","ultimos.literal.filas_por_pagina":"Filas por página","imagenes.34.alt":"Nuboso con nieve","ultimos.literal.seleccione_opcion":"Seleccione una opción","ultimos.literal.verdatosnumericos":"Ver datos num&eacute;ricos","ultimos.literal.fechayhora":"Fecha y hora:","ultimos.literal.ver_todos":"ver todos","ultimos.literal.alter_grafica.racha":"tmax","ultimos.literal.espania":"Espa&ntilde;a","ultimos.literal.grupo_mapa.presion":"","imagenes.niebla.alt":"Nieblas","ultimos.literal.ultimas24horas":"Datos horarios","ultimos.literal.exportar_excel":"Exportar a Excel","imagenes.NE_UDAT.alt":"Nordeste","ultimos.literal.grupo_mapa.tendencia":"","imagenes.temp_max.alt":"Temperaturas m&aacute;ximas","ultimos.literal.grupo_mapa.humedad":"","ultimos.literal.abbr.vien":"Viento (km\/h)","ultimos.literal.direccion":"Dirección","ultimos.literal.abbr.espania":"esp","imagenes.74n.alt":"Cubierto con nieve escasa","ultimos.img_ruta.ext":"\/imagenes\/png\/mapas\/udat\/udat_ext.png","ultimos.literal.mapa_puntos":"Mostrar estaciones con datos diferidos","imagenes.aludes.alt":"Aludes","ultimos.literal.abbr.tendencia":"Tend.","ultimos.literal.color.racha":"#24235F","ultimos.literal.label.precp":"Precipitación","imagenes.11.alt":"Cielo despejado","ultimos.literal.color.dir_racha":"#6968a7","imagenes.leyenda_naranja2.alt":"Peligro importante","imagenes.NO.alt":"Noroeste","imagenes.C_UDAT.alt":"Calma","ultimos.literal.alter_grafica.dir_racha":"vel_racha","imagenes.C.alt":"Calma","ultimos.literal.grupo.vel_racha":"grp_viento","ceu":"Ciudad de Ceuta","imagenes.81.alt":"Niebla","ultimos.literal.color.vel_viento":"#28569E","imagenes.45n.alt":"Muy nuboso con lluvia escasa","ultimos.literal.ultdatos_disponibles":"Último dato disponible de las ","imagenes.SE.alt":"Sudeste","ultimos.literal.tmed":"Temperatura media (&#176;C)","imagenes.73.alt":"Muy nuboso con nieve escasa","ultimos.literal.datos_diarios":"Datos diarios","ultimos.literal.unidad.racha":"km\/h","ultimos.literal.abbr.vvien":"V. vien. (km\/h)","ultimos.literal.unidad.vel_racha":"km\/h","mapaprob.literal.mapa.cambiar.fondo":"Cambiar fondo","ultimos.literal.espania_xls_csv":"España","ultimos.literal.unidad.tmax":"&#176;C","ultimos.literal.exportar_csv":"Exportar a CSV","ultimos.literal.label.pres":"Presión","imagenes.16n.alt":"Cubierto","ultimos.img_ruta.arn":"\/imagenes\/png\/mapas\/udat\/udat_arn.png","ultimos.literal.datos_estacion":"Datos de la estación","ultimos.literal.alter_grafica.dir_viento":"vel_viento","ultimos.literal.unidad.humedad":"%","ultimos.literal.grafica.dir_viento":"","ultimos.literal.dir_viento":"Dirección del viento","imagenes.25.alt":"Muy nuboso con lluvia","avisos.literal.noinfo":"No hay avisos meteorológicos.","ultimos.literal.dia":"Día","ultimos.literal.grupo.humedad":"","ultimos.literal.dir.NW":"Del Noroeste","ultimos.literal.leyenda.humedad":"Humedad","ultimos.img_ruta.ast":"\/imagenes\/png\/mapas\/udat\/udat_ast.png","ultimos.literal.unidad.grp_temp":"&#176;C","ultimos.literal.mostrar_etiqueta.grp_racha":"true","ultimos.literal.dir.NE":"Del Noreste","ultimos.literal.unidad.temperatura_css":"ºC","ultimos.literal.grafica.racha":"lines","ultimos.literal.alter_grafica.tmin":"tmax","ultimos.literal.abbr.racha":"Racha","ultimos.literal.label.tmin":"Temperatura mínima","ultimos.literal.res":"res_","ultimos.tamano.left_precipitacion":"23","ultimos.literal.grupo_mapa.tmax":"","ultimos.literal.grupo.dir_racha":"","imagenes.35.alt":"Muy nuboso con nieve","pais.prediccion.literal.pred":"Predicción","ultimos.literal.ocultar_grafica":"Ocultar gráfica","imagenes.33n.alt":"Intervalos nubosos con nieve","ultimos.literal.unidad.temperatura":"&#176;C","ultimos.ruta.leyenda.temperatura":"\/imagenes\/gif\/leyendas\/leyenda_datos_rojo2.gif","ultimos.literal.unidad.dato_hasta":"hora","ultimos.literal.unidad.pre_0612":"mm","ultimos.literal.unidad.pre_1824":"mm","imagenes.82n.alt":"Bruma","ultimos.literal.dir.WSW":"Del Oeste-Suroeste","imagenes.71n.alt":"Intervalos nubosos con nieve escasa","ultimos.literal.grafica.pre_1218":"bars","imagenes.polvo_suspension.alt":"Polvo en suspensi&oacute;n","ultimos.literal.grafica.pre_0006":"bars","ultimos.literal.alter_grafica.pre_0006":"pre_0612","ultimos.literal.tmax":"Temperatura máxima (&#176;C)","ultimos.literal.alter_grafica.pre_1218":"pre_0006","ultimos.literal.grupo_mapa.pre_0612":"","imagenes.15n.alt":"Muy nuboso","ultimos.literal.ciudad":"Ciudad","ultimos.literal.color.precipitacion":"#993399","ultimos.img_ruta.gal":"\/imagenes\/png\/mapas\/udat\/udat_gal.png","imagenes.ND_UDAT.alt":"Información no disponible","ultimos.literal.imagen_ruta.sinobas":"\/imagenes\/png\/logo-sinobas.png","ultimos.literal.grupo_mapa.temperatura":"","ultimos.literal.grupo_mapa.pre_1824":"","imagenes.53n.alt":"Muy nuboso con tormenta","ultimos.literal.abbr.temperatura":"Temp.","ultimos.literal.unidad.tmed":"&#176;C","imagenes.74.alt":"Cubierto con nieve escasa","imagenes.leyenda_verde2.alt":"Sin peligro","ultimos.literal.infodetallada":"Ver informaci&oacute;n detallada","ultimos.literal.mostrar_etiqueta.grp_pre":"false","ultimos.literal.abbr.rach":"Racha (km\/h)","imagenes.62n.alt":"Nuboso con tormenta y lluvia escasa","ultimos.literal.preacumulada":"Precipitación acumulada","localidades.literal.localidad":"Municipio","ultimos.literal.paginas":"Página ","ultimos.literal.dir.abbr.NNW":"NNO","imagenes.24n.alt":"Nuboso con lluvia","ultimos.literal.unidad.presion":"hPa","provincias.literal.espanha":"Seleccione una provincia o Ciudad Autónoma","imagenes.galernas.alt":"Galernas","ultimos.literal.grupo.vmax":"","ultimos.literal.vmaxdr":"vmax","ultimos.literal.unidad.pre_0024":"mm","ultimos.img_ruta.rio":"\/imagenes\/png\/mapas\/udat\/udat_rio.png","ultimos.literal.altitud":"Altitud","ultimos.literal.tendencia":"Tendencia (hPa)","ultimos.tamano.humedad":"535","ultimos.literal.diayhora":"Fecha y hora oficial","ultimos.literal.grupo_mapa.precipitacion":"","ultimos.literal.alter_grafica.humedad":"temperatura","localidades.literal.viento.NW":"Del noroeste (NO)","ultimos.literal.color.vmax":"#28569E","imagenes.O.alt":"Oeste","ultimos.literal.dir.abbr.E":"E","ultimos.literal.numresumenccaa":"5","ultimos.literal.dir.abbr.S":"S","rio":"La Rioja","ultimos.literal.alter_grafica.tmed":"tmax","localidades.literal.viento.NO":"Del noroeste (NO)","cle":"Castilla y León","imagenes.61n.alt":"Intervalos nubosos con tormenta y lluvia escasa","ultimos.literal.dir.abbr.N":"N","imagenes.11n.alt":"Cielo despejado","localidades.literal.viento.NE":"Del nordeste (NE)","ultimos.literal.tabla_temperatura":"tabla_temperatura","nav":"Comunidad Foral de Navarra","imagenes.temp_min.alt":"Temperaturas m&iacute;nimas","ultimos.literal.color.pre_0006":"#9C309C","clm":"Castilla-La Mancha","ultimos.literal.color.tmin":"#194C99","ultimos.literal.color.pre_1218":"#EF49EF","ultimos.literal.v":"V","ultimos.literal.h":"H","ultimos.literal.resumen.summary":"Últimos datos de temperatura y precipitación por ciudad de la comunidad autónoma seleccionada","imagenes.83.alt":"Calima","ultimos.literal.dir.NNE":"Del Nor-Noreste","imagenes.44n.alt":"Nuboso con lluvia escasa","ultimos.literal.grupo_mapa.dato_hasta":"","ultimos.literal.leyenda.temperatura":"Temperatura","ultimos.img_ruta.cle":"\/imagenes\/png\/mapas\/udat\/udat_cle.png","ultimos.literal.paginas_de":"de ","ultimos.img_ruta.clm":"\/imagenes\/png\/mapas\/udat\/udat_clm.png","ultimos.img_ruta.nav":"\/imagenes\/png\/mapas\/udat\/udat_nav.png","ultimos.literal.color.temperatura":"#457666","ultimos.literal.grafica.pre_0024":"bars","ultimos.literal.seleccionprovincia":"Provincia:","ultimos.img_ruta.mad":"\/imagenes\/png\/mapas\/udat\/udat_mad.png","ultimos.literal.dir.NNW":"Del Nor-Noroeste","imagenes.54n.alt":"Cubierto con tormenta","ultimos.tamano.left_racha":"16","ultimos.literal.alter_grafica.vmax":"tmax","ultimos.literal.grafica_imagen.grp_viento":"Velocidad del viento (km\/h)","mad":"Comunidad de Madrid","ultimos.tamano.grp_pre":"540","ultimos.literal.palabras_clave":"observación, ultimos, datos, resumen, ayer","imagenes.23n.alt":"Intervalos nubosos con lluvia","ultimos.literal.informacion":"Tabla","ultimos.literal.alter_grafica.dato_hasta":"","ultimos.literal.no_data":"No hay datos","ultimos.literal.abbr.pre24":"Pr. 00-24 (mm)","imagenes.13.alt":"Intervalos nubosos","ultimos.literal.unidad.pre_0006":"mm","ultimos.literal.unidad.pre_1218":"mm","ultimos.literal.color.tendencia":"#F49D13","ultimos.literal.grupo.tmed":"grp_temp","ultimos.literal.grafica.vel_racha":"lines","ultimos.literal.color.pre_0024":"#993399","ultimos.literal.alter_grafica.vel_racha":"temperatura","ultimos.literal.grafica.tendencia":"lines","ultimos.literal.dir.abbr.W":"O","ultimos.literal.img_tit":"Seleccione estación","ultimos.literal.label.vracha":"Racha","ultimos.literal.dir.abbr.c":"c \t","ultimos.literal.color.vel_racha":"#6968a7","ultimos.literal.notas_imagen":"En esta página podrá acceder, en forma gráfica y en tabla, a las observaciones horarias de las últimas 24 horas, así como a los valores extremos y acumulados desde las 00 horas del día hasta la hora de actualización indicada, obtenidos en la red de estaciones de Aemet. También podrá acceder a los resúmenes diarios de estas estaciones en los últimos 7 días.<br\/><br\/>En el mapa aparecen estaciones con valor numérico y otras representadas por un punto. En las primeras, al pasar el ratón,  aparece un desplegable con la información de la estación para la variable seleccionada. Las estaciones representadas por un punto son estaciones de la red climatológica, con transmisión de datos superior a la hora, por lo que al seleccionarlas pueden no aparecer los últimos datos, o bien estaciones de las que no se dispone de datos en el momento de la visualización.<br\/><br\/>Los datos presentados han sido únicamente sometidos a controles de calidad en tiempo real, por lo que no puede garantizarse la ausencia de errores.","ultimos.literal.label.vmax":"Velocidad máxima","imagenes.51n.alt":"Intervalos nubosos con tormenta","imagenes.SE_UDAT.alt":"Sudeste","ultimos.buscador.literal.titulo_ultimos":"Búsqueda de estaciones","ultimos.literal.pre_0024dr":"pre_0024","ultimos.literal.abbr.hume":"Hum. (%)","imagenes.13n.alt":"Intervalos nubosos","ultimos.literal.alter_grafica.tendencia":"presion","ultimos.literal.tituloresumenes":"Resumen","ultimos.literal.alter_grafica.tmax":"tmin","coo":"Canarias","localidades.literal.viento.SO":"Del suroeste (SO)","ultimos.literal.estacion":"Estación","localidades.literal.viento.SE":"Del sudeste (SE)","ultimos.literal.abbr.dato_hasta":"Datos hasta","imagenes.33.alt":"Intervalos nubosos con nieve","ultimos.literal.grafica.dir_racha":"","ultimos.literal.dir.SSE":"Del Sur-Sureste","ultimos.literal.label.pre1824":"Precipitación 18-24h","ultimos.literal.grp_temp":"Temperaturas (&#176;C)","ultimos.literal.tmindr":"tmin","imagenes.NO_UDAT.alt":"Noroeste","ultimos.img_ruta.coo":"\/imagenes\/png\/mapas\/udat\/udat_coo.png","ultimos.literal.titulo_espania_xls_csv":"espana","ultimos.literal.todas_ccaa":"Todas","ultimos.literal.label.pre0612":"Precipitación 06-12h","ultimos.literal.grafica.vel_viento":"lines","ultimos.literal.alter_grafica.pre_0612":"pre_0006","imagenes.costeros.alt":"Costeros","ultimos.literal.municipio":"Municipio","imagenes.82.alt":"Bruma","ultimos.literal.grupo.precipitacion":"","ultimos.literal.dir.SSW":"Del Sur-Suroeste","ultimos.literal.alter_grafica.pre_1824":"pre_0006","imagenes.36n.alt":"Cubierto con nieve","ultimos.literal.grupo.presion":"","ultimos.literal.abbr.vel_racha":"Racha","ultimos.literal.grupo.vel_viento":"grp_viento","ultimos.literal.unidad.precipitacion":"mm","ultimos.literal.label.tmax":"Temperatura máxima","ultimos.literal.grp_racha":"Racha (km\/h)","ultimos.literal.color.tmed":"#457666","ultimos.literal.id_climatologico":"Ind. climatológico","imagenes.46n.alt":"Cubierto con lluvia escasa","ultimos.tamano.precipitacion":"529","imagenes.12.alt":"Poco nuboso","ultimos.literal.tabla.resumen.records":"Resumen de récords del día","ultimos.literal.grupo.pre_0612":"grp_pre","ultimos.img_ruta.and":"\/imagenes\/png\/mapas\/udat\/udat_and.png","ultimos.literal.grupo.pre_1824":"grp_pre","ultimos.img_ruta.mel":"\/imagenes\/png\/mapas\/udat\/udat_ceu.png","ultimos.literal.numresumenesp":"10","ultimos.literal.grupo.dir_viento":"grp_viento","ultimos.ruta.leyenda.precipitacion":"\/imagenes\/gif\/leyendas\/leyenda_datos_993399.gif","ultimos.literal.grupo.tmin":"grp_temp","ultimos.literal.imagen_etiqueta.grp_racha":"dir_racha","mel":"Ciudad de Melilla","ultimos.literal.unidad.grp_pre":"mm","and":"Andalucía","ultimos.literal.color.tmax":"#FF0000","ultimos.literal.grafica_imagen.grp_temp":"","ultimos.literal.grupo_mapa.racha":"","ultimos.literal.label.tmed":"Temperatura media","ultimos.literal.datos_horarios":"Datos horarios ","ultimos.datos.tipos.h":"temperatura,vel_viento,dir_viento,vel_racha,dir_racha,precipitacion,presion,tendencia,humedad","ultimos.literal.pre_0612":"Precipitación 06-12h (mm)","mapaprob.literal.mapa.sin.fondo":"Ocultar fondo","ultimos.literal.pre_1824":"Precipitación 18-24h (mm)","ultimos.datos.tipos.d":"tmax,tmin,tmed,racha,vmax,pre_0024,pre_0006,pre_0612,pre_1218,pre_1824","ultimos.tamano.left_vmax":"16","imagenes.27.alt":"Chubascos","imagenes.61.alt":"Intervalos nubosos con tormenta y lluvia escasa","ultimos.literal.presion":"Presión (hPa)","ultimos.literal.abbr.temp":"Temp. (&deg;C)","ultimos.literal.tabla_velocidad":"tabla_velocidad","ultimos.literal.racha":"Racha (km\/h)","ultimos.mapeo_valor_buscar_nombre_mejor.sw":"SO","ultimos.literal.provincia":"Provincia","ultimos.literal.dir_racha":"Dirección de racha","ultimos.literal.abbr.tend":"Tend. (hPa)","ultimos.literal.abbr.pre1824":"Pr. 18-24 (mm)","localidades.literal.viento.SW":"Del suroeste (SO)","ultimos.literal.abbr.pre_1824":"Pr. 18 - 24h","ultimos.literal.seleccioncomunidad":"Comunidad autónoma o ciudad autónoma:","ultimos.ruta.leyenda.temp_maxima":"\/imagenes\/gif\/leyendas\/leyenda_datos_rojo2.gif","ultimos.literal.abbr.pre_0612":"Pr. 06 - 12h","ultimos.literal.abbr.pre0612":"Pr. 06-12 (mm)","01":"Araba\/Álava","02":"Albacete","ultimos.literal.sin_datos":"Sin datos disponibles","03":"Alacant\/Alicante","ultimos.img_ruta.bal":"\/imagenes\/png\/mapas\/udat\/udat_bal.png","04":"Almería","imagenes.43n.alt":"Intervalos nubosos con lluvia escasa","05":"Ávila","06":"Badajoz","08":"Barcelona","09":"Burgos","351":"Las Palmas (Lanzarote)","352":"Las Palmas (Fuerteventura)","353":"Las Palmas (Gran Canaria)","imagenes.26n.alt":"Cubierto con lluvia","ultimos.literal.grupo_mapa.vel_racha":"grp_racha","ultimos.literal.abbr.estacion":"Est.","imagenes.E_UDAT.alt":"Este","ultimos.literal.color.dir_viento":"#28569E","10":"Cáceres","11":"Cádiz","ext":"Extremadura","12":"Castelló\/Castellón","13":"Ciudad Real","imagenes.14n.alt":"Nuboso","ultimos.literal.abbr.grp_temp":"Temp.","ultimos.literal.ulthoramin":"datos hasta ","14":"Córdoba","15":"A Coruña","ultimos.literal.grupo_mapa.pre_0006":"","16":"Cuenca","ultimos.literal.grupo_mapa.pre_1218":"","17":"Girona","18":"Granada","19":"Guadalajara","ultimos.literal.abbr.presion":"Presión","ultimos.literal.velocidad":"Velocidad (km\/h)","ultimos.literal.grafica.humedad":"lines","localidades.literal.viento.S":"Del sur (S)","ultimos.literal.posicion_geografica":"Ver localización","ultimos.tamano.left_grp_viento":"16","ultimos.literal.titulo":"Hoy y últimos días","ultimos.literal.dir.abbr.SE":"SE","ultimos.literal.label.tend":"Tendencia","ultimos.literal.dir.E":"Del Este","localidades.literal.viento.W":"Del oeste (O)","ultimos.literal.abbr.vel_viento":"V. vien.","ultimos.tamano.temperatura":"529","ultimos.literal.dir.abbr.SW":"SO","localidades.literal.viento.N":"Del norte (N)","ultimos.literal.leyenda.temp_minima":"Temp. Mínima","ultimos.literal.dir.abbr.WNW":"ONO","localidades.literal.viento.O":"Del oeste (O)","imagenes.54.alt":"Cubierto con tormenta","ultimos.literal.seleccion.provincia.isla":"Provincia, ciudad autónoma o isla:","ultimos.literal.tabla_completa":"Tabla completa","imagenes.leyenda_amarilla2.alt":"Peligro bajo","localidades.literal.viento.C":"En calma","ultimos.literal.tabla_precipitacion":"tabla_precipitacion","ultimos.literal.mostrar_etiqueta.grp_viento":"true","ultimos.literal.hora_oficial":"hora oficial","localidades.literal.viento.E":"Del este (E)","20":"Gipuzkoa","21":"Huelva","22":"Huesca","23":"Jaén","24":"León","ultimos.literal.abbr.tmax":"Tmax (&deg;C)","25":"Lleida","26":"La Rioja","27":"Lugo","ultimos.literal.numcamposresumen":"6","28":"Madrid","ultimos.literal.unidad.tendencia":"hPa","ultimos.literal.opcion_esp":"ESP","29":"Málaga","imagenes.O_UDAT.alt":"Oeste","ultimos.literal.descripcion":"Últimos datos observados en capitales de provincia cada 6 horas","ultimos.literal.dir.c":"En calma","ultimos.img_ruta.ceu":"\/imagenes\/png\/mapas\/udat\/udat_ceu.png","ultimos.literal.leyenda.precip_acum":"Precip. Acumulada","ultimos.literal.grupo_mapa.dir_viento":"grp_viento","ultimos.literal.mostrar_tabla":"Mostrar tabla","imagenes.ND.alt":"Información no disponible","ultimos.literal.actualizado_a_las":"Actualizado a las","ultimos.literal.dir.N":"Del Norte","ultimos.literal.dir.S":"Del Sur","imagenes.SO_UDAT.alt":"Sudoeste","ultimos.tamano.left_humedad":"20","arn":"Aragón","ultimos.literal.dir.W":"Del Oeste","30":"Murcia","31":"Navarra","32":"Ourense","33":"Asturias","ultimos.literal.grupo_mapa.pre_0024":"","ultimos.literal.notas_resumen":"En esta página podrá acceder, en forma gráfica y en tabla, a las observaciones horarias de las últimas 24 horas, así como a los valores extremos y acumulados desde las 00 horas del día hasta la hora de actualización indicada, obtenidos en la red de estaciones de Aemet. También podrá acceder a los resúmenes diarios de estas estaciones en los últimos 7 días.<br\/><br\/>En el mapa aparecen estaciones con valor numérico y otras representadas por un punto. En las primeras, al pasar el ratón,  aparece un desplegable con la información de la estación para la variable seleccionada. Las estaciones representadas por un punto son estaciones de la red climatológica, con transmisión de datos superior a la hora, por lo que al seleccionarlas pueden no aparecer los últimos datos, o bien estaciones de las que no se dispone de datos en el momento de la visualización.<br\/><br\/>Los datos presentados han sido únicamente sometidos a controles de calidad en tiempo real, por lo que no puede garantizarse la ausencia de errores.","34":"Palencia","36":"Pontevedra","37":"Salamanca","imagenes.64n.alt":"Cubierto con tormenta y lluvia escasa","avisos.literal.validez":"Validez","ultimos.literal.seleccione_movil":"Seleccione la Comunidad Autónoma o Ciudad Autónoma.","39":"Cantabria","ultimos.literal.titulonavegador":"El Tiempo.","ultimos.literal.humedad":"Humedad (%)","ultimos.literal.mapa_de":"Mapa de","ultimos.literal.abbr.vmaxdia":"V. máx. (km\/h)","381":"Santa Cruz de Tenerife (Tenerife)","382":"Santa Cruz de Tenerife (La Gomera)","ultimos.literal.grp_viento":"Viento (km\/h)","ultimos.literal.error_carga":"Error al cargar los datos","383":"Santa Cruz de Tenerife (La Palma)","384":"Santa Cruz de Tenerife (El Hierro)","ultimos.literal.label.pre24":"Precipitación acumulada","imagenes.45.alt":"Muy nuboso con lluvia escasa","imagenes.tormentas.alt":"Tormentas","imagenes.62.alt":"Nuboso con tormenta y lluvia escasa","ultimos.literal.leyenda.temp_maxima":"Temp. Máxima","ultimos.literal.abbr.dvien":"Dir. vien.","imagenes.15.alt":"Muy nuboso","ultimos.literal.udat":"udat_","40":"Segovia","41":"Sevilla","42":"Soria","ultimos.literal.color.presion":"#F49D13","43":"Tarragona","44":"Teruel","45":"Toledo","ultimos.literal.dir.abbr.NE":"NE","46":"València\/Valencia","47":"Valladolid","ast":"Principado de Asturias","48":"Bizkaia","49":"Zamora","imagenes.35n.alt":"Muy nuboso con nieve","ultimos.literal.abbr.vmax":"Vmax (km\/h)","ultimos.ruta.leyenda.precip_acum":"\/imagenes\/gif\/leyendas\/leyenda_datos_993399.gif","imagenes.34n.alt":"Nuboso con nieve","ultimos.literal.abbr.dracha":"Dir. racha","ultimos.literal.dir.abbr.NW":"NO","ultimos.literal.label.hume":"Humedad","ultimos.literal.seleccioneparametro":"Seleccione variable:","ultimos.literal.datosdelas":"Datos de","50":"Zaragoza","51":"Ceuta","52":"Melilla","ultimos.literal.datos_diezminutales":"Datos diezminutales","ultimos.literal.dir.abbr.WSW":"OSO","ultimos.literal.vel_viento":"Velocidad del viento (km\/h)","ultimos.literal.todas":"Todas","imagenes.N.alt":"Norte","localidades.literal.viento_graf":"viento","ultimos.literal.pre":"Precipitación acumulada","imagenes.E.alt":"Este","imagenes.leyenda_rojo2.alt":"Peligro extraordinario","ultimos.literal.grupo.pre_1218":"grp_pre","imagenes.viento.alt":"Viento","ultimos.literal.abbr.humedad":"Humedad","ultimos.literal.mapa_dato":"Mostrar valores","imagenes.52n.alt":"Nuboso con tormenta","ultimos.literal.notas_tabla":"En esta página podrá acceder, en forma gráfica y en tabla, a las observaciones horarias de las últimas 24 horas, así como a los valores extremos y acumulados desde las 00 horas del día hasta la hora de actualización indicada, obtenidos en la red de estaciones de Aemet. También podrá acceder a los resúmenes diarios de estas estaciones en los últimos 7 días.<br\/><br\/>En el mapa aparecen estaciones con valor numérico y otras representadas por un punto. En las primeras, al pasar el ratón,  aparece un desplegable con la información de la estación para la variable seleccionada. Las estaciones representadas por un punto son estaciones de la red climatológica, con transmisión de datos superior a la hora, por lo que al seleccionarlas pueden no aparecer los últimos datos, o bien estaciones de las que no se dispone de datos en el momento de la visualización.<br\/><br\/>Los datos presentados han sido únicamente sometidos a controles de calidad en tiempo real, por lo que no puede garantizarse la ausencia de errores.","imagenes.53.alt":"Muy nuboso con tormenta","ultimos.literal.grupo.pre_0006":"grp_pre","imagenes.63n.alt":"Muy nuboso con tormenta y lluvia escasa","ultimos.literal.fecha":"Fecha:","pais.prediccion.literal.valideza":"a","ultimos.literal.alter_grafica.vel_viento":"temperatura","ultimos.literal.seleccione":"Seleccione la Comunidad Autónoma o Ciudad Autónoma sobre el mapa o utilizando el desplegable inferior.","ultimos.ruta.leyenda.temp_minima":"\/imagenes\/gif\/leyendas\/leyenda_datos_azul2.gif","esp1":"España","imagenes.63.alt":"Muy nuboso con tormenta y lluvia escasa","ultimos.literal.alter_grafica.presion":"temperatura","ultimos.literal.grupo.tmax":"grp_temp","imagenes.NE.alt":"Nordeste","imagenes.46.alt":"Cubierto con lluvia escasa","ultimos.literal.valor":"Valor","ultimos.literal.abbr.grp_pre":"Pre.","ultimos.tamano.left_temperatura":"22","ultimos.literal.dir.abbr.ENE":"ENE","ultimos.literal.label.temp":"Temperatura","gal":"Galicia","imagenes.72n.alt":"Nuboso con nieve escasa","ultimos.literal.grafica_imagen.grp_pre":"","ultimos.literal.unidad.dir_viento":"","ultimos.literal.mapa_sin_puntos":"Ocultar estaciones con datos diferidos","imagenes.deshielos.alt":"Deshielos","ultimos.literal.datos":"Datos observados para","imagenes.14.alt":"Nuboso","ultimos.literal.sin_dato":"No hay dato","ultimos.literal.grafica.tmax":"lines","ultimos.literal.mostrar_etiqueta.grp_temp":"false","ultimos.tamano.left_presion":"16","ultimos.literal.abbr.ulthora":"Ult. Hora","ultimos.literal.arrayresumenes":"tmax,tmin,vmax,racha,pre_0024","ultimos.literal.ulthora":"Datos hasta ","imagenes.N_UDAT.alt":"Norte","ultimos.literal.abbr.tmed":"Tmed (&deg;C)","imagenes.81n.alt":"Niebla","ultimos.literal.vel_racha":"Racha (km\/h)","ultimos.literal.seleccionar":"Seleccionar","ultimos.literal.mapa":"Mapa","ultimos.literal.grafica_imagen.grp_racha":"","ultimos.literal.grp_pre":"Precipitación (mm)","ultimos.literal.title_abrir_ventana":"Ver localización (se abrirá en una ventana nueva)","etiquetas.abbr.tempmin":"Min","ultimos.literal.imagen_etiqueta.grp_viento":"dir_viento","ultimos.literal.color.humedad":"#669900","general.prediccion.validezde":"de","ultimos.literal.graficas":"Gráficas","ultimos.literal.dir.SE":"Del Sureste","ultimos.literal.url.sinobas":"\/eltiempo\/observacion\/sinobas","etiquetas.abbr.tempmax":"Max","071":"Illes Balears (Menorca)","imagenes.16.alt":"Cubierto","imagenes.24.alt":"Nuboso con lluvia","072":"Illes Balears (Mallorca)","073":"Illes Balears (Ibiza-Formentera)","ultimos.ruta.leyenda.humedad":"\/imagenes\/gif\/leyendas\/leyenda_datos_verde2.gif","ultimos.literal.abbr.vracha":"Racha (km\/h)","ultimos.literal.dato_hasta":"Datos hasta","ultimos.literal.pre_0024":"Precipitación 00-24h (mm)","mapaprob.literal.mapa.sin.nombres":"Ocultar nombres","ultimos.literal.viento":"Viento (km\/h)","ultimos.literal.alter_grafica.pre_0024":"pre_0006","ultimos.literal.lineas_paginacion":"Lineas por página","ultimos.literal.fechas":"udat_fechas","pva":"País Vasco","ultimos.literal.dir.WNW":"Del Oeste-Noroeste","ultimos.tamano.left_grp_temp":"22","ultimos.literal.unidad.vel_viento":"km\/h","val":"Comunitat Valenciana","ultimos.literal.grafica.vmax":"lines","imagenes.S.alt":"Sur","imagenes.52.alt":"Nuboso con tormenta","ultimos.literal.grupo.temperatura":"","ultimos.literal.abbr.grp_viento":"Viento","ultimos.literal.label.dracha":"Dirección de racha","ultimos.literal.unidad.vmax":"km\/h","imagenes.25n.alt":"Muy nuboso con lluvia","ultimos.literal.label.pre0006":"Precipitación 00-06h","ultimos.literal.label.pre1218":"Precipitación 12-18h","ultimos.literal.ir_a_pagina":"Ir a página","ultimos.img_ruta.pva":"\/imagenes\/png\/mapas\/udat\/udat_pva.png","mapaprob.literal.mapa.sin.limites":"Ocultar límites","imagenes.CALMA.alt":"Calma","imagenes.36.alt":"Cubierto con nieve","ultimos.literal.dir.abbr.ESE":"ESE","ultimos.literal.grupo_mapa.tmed":"","ultimos.img_ruta.val":"\/imagenes\/png\/mapas\/udat\/udat_val.png","ultimos.literal.grupo_mapa.dir_racha":"grp_racha","ultimos.literal.pre6":"Precipitación en seis horas (mm)","ultimos.datos.tipos.no_mapa":"tendencia","ultimos.literal.pre_0006":"Precipitación 00-06h (mm)","ultimos.literal.pre_1218":"Precipitación 12-18h (mm)","ultimos.tamano.presion":"545","ultimos.literal.abbr.dir_racha":"Dir. racha","pais.prediccion.literal.fensig":"Fenómenos significativos","ultimos.literal.abbr.pre_0006":"Pr. 00 - 06h","imagenes.64.alt":"Cubierto con tormenta y lluvia escasa","ultimos.literal.abbr.provincia":"Prov.","ultimos.literal.unidad.dir_racha":"","ultimos.literal.grafica.tmed":"lines","ultimos.literal.abbr.pre1218":"Pr. 12-18 (mm)","ultimos.literal.tmaxdr":"tmax","ultimos.literal.abbr.pre_1218":"Pr. 12 - 18h","ultimos.literal.abbr.pre0006":"Pr. 00-06 (mm)","ultimos.mapeo_valor_buscar_nombre_mejor.w":"O","ultimos.literal.unidad.tmin":"&#176;C","ultimos.literal.mapa_sin_dato":"Ocultar valores","ultimos.literal.tempminima":"Temp. Mínima (&#176;C)","ultimos.literal.tabla.summary":"Últimos datos meteorológicos observados por cada ciudad de la comunidad autónoma seleccionada","ultimos.literal.color.dato_hasta":"#993399","imagenes.73n.alt":"Muy nuboso con nieve escasa","ultimos.literal.opcion_ccaa":"CCAA","ultimos.literal.grupo.pre_0024":"","ultimos.literal.dir.SW":"Del Suroeste","ultimos.literal.grafica.temperatura":"lines","ultimos.literal.abbr.tmin":"Tmin (&deg;C)","ultimos.literal.verenmapa":"Ver informaci&oacute;n en mapa","ultimos.literal.resumen":"Resumen de ayer","ultimos.literal.ultimosdias":"Resúmenes diarios","ultimos.literal.abbr.precp":"Precp. (mm)","ultimos.literal.dir.ENE":"Del Este-Noreste","ultimos.literal.abbr.pres":"Pres. (hPa)","ultimos.tamano.racha":"550","ultimos.literal.seleccioneestacion":"Estación:","pais.prediccion.literal.capital":"Capital de Provincia","ultimos.literal.imagen_etiqueta.grp_temp":"","ultimos.literal.leyenda.precipitacion":"Precipitación","ultimos.literal.sin_dato_horario":"Estación en tiempo diferido","ultimos.literal.vmax":"Velocidad máxima (km\/h)","ultimos.literal.tempmaxima":"Temp. Máxima (&#176;C)","imagenes.51.alt":"Intervalos nubosos con tormenta","imagenes.83n.alt":"Calima","ultimos.literal.grupo_mapa.vel_viento":"grp_viento","imagenes.S_UDAT.alt":"Sur","ultimos.literal.opcion_estacion":"estacion","ultimos.literal.abbr.pre_0024":"Pr. 00 - 24h","ultimos.datos.tipos.no_grafica":"dir_racha,dir_viento,tendencia,pre_0024","imagenes.17.alt":"Nubes altas","ultimos.literal.dir.abbr.SSW":"SSO","imagenes.43.alt":"Intervalos nubosos con lluvia escasa","ultimos.literal.label.dvien":"Dirección del viento","ultimos.literal.abbr.grp_racha":"Racha","ultimos.literal.grafica.pre_0612":"bars","ultimos.tamano.vmax":"550","ultimos.literal.grafica.pre_1824":"bars","ultimos.literal.dir.abbr.SSE":"SSE","imagenes.SO.alt":"Sudoeste","imagenes.17n.alt":"Nubes altas","ultimos.buscador.literal.buscar_estacion":"Buscar estación por nombre:","ultimos.tamano.left_grp_pre":"19","ultimos.literal.introduzcatexto":"Introduzca un texto a buscar","ultimos.literal.label.vvien":"Velocidad del viento","ultimos.literal.grupo_mapa.tmin":"","ultimos.literal.rachadr":"racha","ultimos.literal.grupo.tendencia":"","imagenes.23.alt":"Intervalos nubosos con lluvia","imagenes.71.alt":"Intervalos nubosos con nieve escasa","ultimos.img_ruta.can":"\/imagenes\/png\/mapas\/udat\/udat_can.png","imagenes.nevadas.alt":"Nevadas","ultimos.literal.grupo.dato_hasta":"","ultimos.literal.sinobas":"SINOBAS","ultimos.img_ruta.mur":"\/imagenes\/png\/mapas\/udat\/udat_mur.png","imagenes.lluvias.alt":"Lluvias","ultimos.literal.color.pre_0612":"#6577E3","ultimos.literal.color.pre_1824":"#9DBEA9","ultimos.literal.hora":"Hora","ultimos.img_ruta.cat":"\/imagenes\/png\/mapas\/udat\/udat_cat.png","ultimos.literal.ultimos_datos_aemet":"Últimos Datos Aemet","mur":"Región de Murcia","ultimos.literal.grafica.presion":"lines","imagenes.72.alt":"Nuboso con nieve escasa","ultimos.literal.alter_grafica.temperatura":"temperatura","ultimos.tamano.grp_temp":"538","ultimos.literal.grafica.tmin":"lines","can":"Cantabria","ultimos.literal.fecha_elaboracion":"Actualizado:","cat":"Cataluña","ultimos.literal.tmin":"Temperatura mínima (&#176;C)","ultimos.literal.posicion":"Posición","ultimos.datos.tipos.dact":"tmax,tmin,racha,vmax,pre_0024,dato_hasta","ultimos.literal.mostrar_grafica":"Mostrar gráfica","ultimos.literal.unidad.grp_racha":"km\/h","ultimos.literal.id_sinoptico":"Id. sinóptico","imagenes.44.alt":"Nuboso con lluvia escasa","ultimos.literal.precipitacion":"Precipitación (mm)","ultimos.literal.grupo_mapa.vmax":"","ultimos.tamano.grp_viento":"542","ultimos.literal.abbr.dir_viento":"Dir. viento","ultimos.literal.abbr.precipitacion":"Prec.","imagenes.27n.alt":"Chubascos","ultimos.literal.grupo.racha":"","ultimos.literal.notas":"En esta página podrá acceder, en forma gráfica y en tabla, a las observaciones horarias de las últimas 24 horas, así como a los valores extremos y acumulados desde las 00 horas del día hasta la hora de actualización indicada, obtenidos en la red de estaciones de Aemet. También podrá acceder a los resúmenes diarios de estas estaciones en los últimos 7 días.<br\/><br\/>En el mapa aparecen estaciones con valor numérico y otras representadas por un punto. En las primeras, al pasar el ratón,  aparece un desplegable con la información de la estación para la variable seleccionada. Las estaciones representadas por un punto son estaciones de la red climatológica, con transmisión de datos superior a la hora, por lo que al seleccionarlas pueden no aparecer los últimos datos, o bien estaciones de las que no se dispone de datos en el momento de la visualización.<br\/><br\/>Los datos presentados han sido únicamente sometidos a controles de calidad en tiempo real, por lo que no puede garantizarse la ausencia de errores.","ultimos.literal.alter_grafica.precipitacion":"temperatura"};
+	var comunidades = [{"provincias":[{"idLocation":"6104","idccaa":"and","estaciones":[{"id":"6302X","nombre":"ABLA"},{"id":"6277C","nombre":"Adra"},{"id":"6364X","nombre":"Albox"},{"id":"6325O","nombre":"Almería Aeropuerto"},{"id":"6329X","nombre":"Cabo de Gata"},{"id":"6332Y","nombre":"Carboneras"},{"id":"6291B","nombre":"El Ejido"},{"id":"6340X","nombre":"Garrucha"},{"id":"6367X","nombre":"Huércal-Overa"},{"id":"6307C","nombre":"Laújar, Parque Nacional Sierra Nevada"},{"id":"6307X","nombre":"Láujar de Andarax"},{"id":"6335O","nombre":"Nacimiento, Parque Nacional Sierra Nevada"},{"id":"6312E","nombre":"Rágol, Parque Nacional Sierra Nevada"},{"id":"6293X","nombre":"Roquetas de Mar"},{"id":"5060X","nombre":"Vélez Blanco - Topares"}],"id":"04","nombre":"Almería"},{"idLocation":"6111","idccaa":"and","estaciones":[{"id":"5996B","nombre":"Barbate"},{"id":"5973","nombre":"Cádiz"},{"id":"5906X","nombre":"Chipiona"},{"id":"5941X","nombre":"El Bosque"},{"id":"5911X","nombre":"Grazalema"},{"id":"5960","nombre":"Jerez de la Frontera Aeropuerto"},{"id":"6042I","nombre":"Jimena de la Frontera"},{"id":"5983X","nombre":"Medina Sidonia"},{"id":"5919X","nombre":"Olvera"},{"id":"5910X","nombre":"Rota, Base Naval"},{"id":"5972Y","nombre":"San Fernando"},{"id":"5950X","nombre":"San José del Valle"},{"id":"6056X","nombre":"San Roque"},{"id":"6001","nombre":"Tarifa"},{"id":"5995B","nombre":"Vejer de la Frontera"}],"id":"11","nombre":"Cádiz"},{"idLocation":"6114","idccaa":"and","estaciones":[{"id":"5624X","nombre":"Aguilar de la Frontera"},{"id":"5598X","nombre":"Benamejí"},{"id":"5346X","nombre":"Cardeña"},{"id":"5394X","nombre":"Córdoba, Embalse de Guadanuño"},{"id":"5429X","nombre":"Córdoba, Prágdena"},{"id":"5402","nombre":"Córdoba Aeropuerto"},{"id":"5427X","nombre":"Doña Mencía"},{"id":"5459X","nombre":"Espiel"},{"id":"5470","nombre":"Fuente Palmera"},{"id":"4267X","nombre":"Hinojosa del Duque"},{"id":"5625X","nombre":"La Rambla"},{"id":"5361X","nombre":"Montoro"},{"id":"5412X","nombre":"Priego de Córdoba"},{"id":"4263X","nombre":"Valsequillo"},{"id":"5390Y","nombre":"Villanueva de Córdoba"}],"id":"14","nombre":"Córdoba"},{"idLocation":"6118","idccaa":"and","estaciones":[{"id":"5047E","nombre":"Baza"},{"id":"5103F","nombre":"Camarate, Parque Nacional Sierra Nevada"},{"id":"5103E","nombre":"Camarate 2, Parque Nacional Sierra Nevada"},{"id":"6248D","nombre":"Cañar, Parque Nacional Sierra Nevada"},{"id":"6272X","nombre":"Castell de Ferro"},{"id":"5107D","nombre":"Dólar"},{"id":"5530E","nombre":"Granada Aeropuerto"},{"id":"5514Z","nombre":"Granada Base Aérea"},{"id":"5515X","nombre":"Granada-Cartuja"},{"id":"5112X","nombre":"Guadix"},{"id":"5051X","nombre":"Huéscar"},{"id":"6299I","nombre":"Laguna Seca, Parque Nacional Sierra Nevada"},{"id":"6258X","nombre":"Lanjarón"},{"id":"5582A","nombre":"Loja"},{"id":"6268Y","nombre":"Motril, Puerto"},{"id":"5511","nombre":"Pradollano, Parque Nacional Sierra Nevada"},{"id":"6267X","nombre":"Salobreña"},{"id":"5516D","nombre":"Sierra Nevada, Radiotelescopio"},{"id":"6281X","nombre":"Válor"},{"id":"5515D","nombre":"Víznar"}],"id":"18","nombre":"Granada"},{"idLocation":"6121","idccaa":"and","estaciones":[{"id":"4560Y","nombre":"Alajar"},{"id":"5858X","nombre":"Almonte"},{"id":"4589X","nombre":"Alosno, Tharsis"},{"id":"4527X","nombre":"Aroche"},{"id":"4549Y","nombre":"Ayamonte"},{"id":"5769X","nombre":"Cala"},{"id":"4554X","nombre":"Cartaya"},{"id":"4608X","nombre":"El Campillo"},{"id":"4584X","nombre":"El Cerro de Andévalo"},{"id":"4541X","nombre":"El Granado"},{"id":"4642E","nombre":"Huelva, Ronda Este"},{"id":"5860E","nombre":"Moguer, El Arenosillo"},{"id":"4575X","nombre":"Valverde del Camino"},{"id":"4622X","nombre":"Villarrasa"}],"id":"21","nombre":"Huelva"},{"idLocation":"6123","idccaa":"and","estaciones":[{"id":"5406X","nombre":"Alcalá La Real"},{"id":"5298X","nombre":"Andújar"},{"id":"5181D","nombre":"Arroyo del Ojanco"},{"id":"5164B","nombre":"Baeza"},{"id":"5281X","nombre":"Bailén"},{"id":"5038Y","nombre":"Cazorla"},{"id":"5270B","nombre":"Jaén"},{"id":"5279X","nombre":"Linares"},{"id":"5165X","nombre":"Torres"},{"id":"5210X","nombre":"Villanueva del Arzobispo"},{"id":"5192","nombre":"Villarrodrigo"}],"id":"23","nombre":"Jaén"},{"idLocation":"6129","idccaa":"and","estaciones":[{"id":"6201X","nombre":"Algarrobo"},{"id":"6127X","nombre":"Álora"},{"id":"6045X","nombre":"Alpandeire"},{"id":"6069X","nombre":"Benahavís"},{"id":"6143X","nombre":"Coín"},{"id":"6040X","nombre":"Cortes de la Frontera"},{"id":"6058I","nombre":"Estepona"},{"id":"6375X","nombre":"Fuente de Piedra"},{"id":"6050X","nombre":"Gaucín"},{"id":"6172Y","nombre":"Málaga"},{"id":"6156X","nombre":"Málaga, Centro Meteorológico"},{"id":"6155A","nombre":"Málaga Aeropuerto"},{"id":"6057X","nombre":"Manilva"},{"id":"6083X","nombre":"Marbella"},{"id":"6076X","nombre":"Marbella, Puerto"},{"id":"6213X","nombre":"Nerja"},{"id":"6175X","nombre":"Rincón de la Victoria"},{"id":"6032X","nombre":"Ronda Instituto"},{"id":"6088X","nombre":"Torremolinos"},{"id":"6199X","nombre":"Vélez-Málaga"}],"id":"29","nombre":"Málaga"},{"idLocation":"6141","idccaa":"and","estaciones":[{"id":"5733X","nombre":"Almadén de la Plata"},{"id":"5702X","nombre":"Carmona"},{"id":"5835X","nombre":"Carrión de los Céspedes"},{"id":"5704B","nombre":"Cazalla de la Sierra"},{"id":"5641X","nombre":"Écija"},{"id":"5656","nombre":"Fuentes de Andalucía"},{"id":"5726X","nombre":"Guadalcanal"},{"id":"5654X","nombre":"La Puebla de los Infantes"},{"id":"5612B","nombre":"La Roda de Andalucía"},{"id":"5891X","nombre":"Las Cabezas de San Juan"},{"id":"5612X","nombre":"Lora de Estepa"},{"id":"5796","nombre":"Morón de la Frontera"},{"id":"5998X","nombre":"Osuna"},{"id":"5790Y","nombre":"Sevilla, Tablada"},{"id":"5783","nombre":"Sevilla Aeropuerto"},{"id":"5788X","nombre":"Tomares, Zaudín"}],"id":"41","nombre":"Sevilla"}],"idLocation":"61","id":"and","nombre":"Andalucía"},{"provincias":[{"idLocation":"6222","idccaa":"arn","estaciones":[{"id":"9808X","nombre":"Aínsa-Sobrarbe, La Serreta"},{"id":"9491X","nombre":"Almudévar"},{"id":"9208E","nombre":"Aragüés del Puerto"},{"id":"9195C","nombre":"Astún, La Raca"},{"id":"9211F","nombre":"Bailo, Puyalto"},{"id":"9911X","nombre":"Ballobar"},{"id":"9866C","nombre":"Barbastro"},{"id":"9756X","nombre":"Benabarre"},{"id":"9838B","nombre":"Benasque"},{"id":"9784P","nombre":"Bielsa"},{"id":"9882X","nombre":"Bierge, Yaso"},{"id":"9453X","nombre":"Biescas, Embalse de Búbal"},{"id":"9198X","nombre":"Canfranc-Estación"},{"id":"9855E","nombre":"Capella, Laguarres"},{"id":"9839V","nombre":"Cerler, Cogulla"},{"id":"9445L","nombre":"Formigal, Sarrios"},{"id":"9924X","nombre":"Fraga"},{"id":"9901X","nombre":"Huesca"},{"id":"9898","nombre":"Huesca, Aeropuerto"},{"id":"9201X","nombre":"Jaca"},{"id":"9908X","nombre":"Lanaja"},{"id":"9451F","nombre":"Panticosa, Petrosos"},{"id":"9812M","nombre":"Parador de Ordesa, Parque Nacional Ordesa y Monteperdido"},{"id":"9460X","nombre":"Sabiñánigo"},{"id":"9894Y","nombre":"Sariñena"},{"id":"9843A","nombre":"Seira"},{"id":"9751","nombre":"Sopeira"},{"id":"9918Y","nombre":"Tamarite de Litera, La Melusa"},{"id":"9814X","nombre":"Torla - Ordesa"},{"id":"9814I","nombre":"Torla-Ordesa, El Cebollar"},{"id":"9207","nombre":"Valle de Hecho, Hecho"}],"id":"22","nombre":"Huesca"},{"idLocation":"6244","idccaa":"arn","estaciones":[{"id":"8354X","nombre":"Albarracín"},{"id":"9573X","nombre":"Alcañiz"},{"id":"9550C","nombre":"Andorra, Horcallana"},{"id":"9998X","nombre":"Bello"},{"id":"9381I","nombre":"Calamocha"},{"id":"9569A","nombre":"Calanda"},{"id":"9561X","nombre":"Castellote"},{"id":"8458X","nombre":"Cedrillas"},{"id":"9436X","nombre":"Fonfría"},{"id":"9546B","nombre":"Hijar"},{"id":"8376","nombre":"Jabaloyas"},{"id":"9531Y","nombre":"Montalbán"},{"id":"8486X","nombre":"Mosqueruela"},{"id":"9513X","nombre":"Muniesa"},{"id":"9374X","nombre":"Santa Eulalia del Campo"},{"id":"8368U","nombre":"Teruel"},{"id":"9935X","nombre":"Valderrobres"}],"id":"44","nombre":"Teruel"},{"idLocation":"6250","idccaa":"arn","estaciones":[{"id":"9354X","nombre":"Alhama de Aragon"},{"id":"9311X","nombre":"Borja, Los Llanos"},{"id":"9394X","nombre":"Calatayud"},{"id":"9574B","nombre":"Caspe, Plana del Pilón"},{"id":"9336D","nombre":"Castejon de Valdejasa"},{"id":"9390","nombre":"Daroca"},{"id":"9321Y","nombre":"Ejea de los Caballeros, Eras Altas"},{"id":"9427X","nombre":"La Almunia de Doña Godina"},{"id":"9495Y","nombre":"Leciñena"},{"id":"9510X","nombre":"Quinto"},{"id":"9244X","nombre":"Sos del Rey Católico"},{"id":"9299X","nombre":"Tarazona"},{"id":"9501X","nombre":"Valmadrid"},{"id":"9434","nombre":"Zaragoza, Aeropuerto"},{"id":"9434P","nombre":"Zaragoza, Valdespartera"}],"id":"50","nombre":"Zaragoza"}],"idLocation":"62","id":"arn","nombre":"Aragón"},{"provincias":[{"idLocation":"65352","idccaa":"coo","estaciones":[{"id":"C248E","nombre":"Antigua"},{"id":"C249I","nombre":"Fuerteventura Aeropuerto"},{"id":"C258K","nombre":"La Oliva"},{"id":"C259X","nombre":"La Oliva, Puerto de Corralejo"},{"id":"C229J","nombre":"Pájara"},{"id":"C239N","nombre":"Tuineje,Puerto Gran Tarajal"}],"id":"352","nombre":"Las Palmas (Fuerteventura)"},{"idLocation":"65353","idccaa":"coo","estaciones":[{"id":"C619X","nombre":"Agaete"},{"id":"C668V","nombre":"Agaete - Suerte Alta"},{"id":"C648C","nombre":"Agüimes"},{"id":"C669B","nombre":"Arucas"},{"id":"C649I","nombre":"Gran Canaria Aeropuerto"},{"id":"C619Y","nombre":"La Aldea de San Nicolás"},{"id":"C628B","nombre":"La Aldea de San Nicolás, Tasarte"},{"id":"C659M","nombre":"Las Palmas de Gran Canaria, Pl. de la Feria"},{"id":"C658X","nombre":"Las Palmas de Gran Canaria, Tafira"},{"id":"C689E","nombre":"Maspalomas"},{"id":"C639M","nombre":"Maspalomas, C. Insular Turismo"},{"id":"C629X","nombre":"Mogán, Puerto"},{"id":"C623I","nombre":"San Bartolome Tirajana, Cuevas del Pinar"},{"id":"C639U","nombre":"San Bartolome Tirajana, El Matorral"},{"id":"C635B","nombre":"San Bartolome Tirajana, Las Tirajanas"},{"id":"C625O","nombre":"San Bartolome Tirajana, Lomo Pedro Alfonso"},{"id":"C614H","nombre":"Tejeda"},{"id":"C612F","nombre":"Tejeda, Cruz de Tejeda"},{"id":"C648N","nombre":"Telde, Centro Forestal Doramas"},{"id":"C649R","nombre":"Telde, Melenara"},{"id":"C656V","nombre":"Teror"},{"id":"C665T","nombre":"Valleseco"},{"id":"C611E","nombre":"Vega de San Mateo"}],"id":"353","nombre":"Las Palmas (Gran Canaria)"},{"idLocation":"65351","idccaa":"coo","estaciones":[{"id":"C029R","nombre":"Arrecife"},{"id":"C038N","nombre":"Haría"},{"id":"C839X","nombre":"La Graciosa"},{"id":"C029O","nombre":"Lanzarote Aeropuerto"},{"id":"C018J","nombre":"Tías"},{"id":"C048W","nombre":"Tinajo"},{"id":"C019V","nombre":"Yaiza Playa Blanca"}],"id":"351","nombre":"Las Palmas (Lanzarote)"},{"idLocation":"65384","idccaa":"coo","estaciones":[{"id":"C916Q","nombre":"El Pinar, Depósito"},{"id":"C917E","nombre":"El Pinar, La Dehesa"},{"id":"C939T","nombre":"Frontera, Sabinosa"},{"id":"C929I","nombre":"Hierro Aeropuerto"},{"id":"C925F","nombre":"San Andrés, Valverde"},{"id":"C928I","nombre":"Valverde"}],"id":"384","nombre":"Santa Cruz de Tenerife (El Hierro)"},{"idLocation":"65382","idccaa":"coo","estaciones":[{"id":"C317B","nombre":"Agulo"},{"id":"C316I","nombre":"Arure"},{"id":"C328W","nombre":"Hermigua"},{"id":"C329Z","nombre":"San Sebastián de la Gomera"},{"id":"C314Z","nombre":"Vallehermoso, Alto Igualero"},{"id":"C319W","nombre":"Vallehermoso, Dama"}],"id":"382","nombre":"Santa Cruz de Tenerife (La Gomera)"},{"idLocation":"65383","idccaa":"coo","estaciones":[{"id":"C126A","nombre":"El Paso"},{"id":"C129V","nombre":"Fuencaliente"},{"id":"C139E","nombre":"La Palma Aeropuerto"},{"id":"C129X","nombre":"LAS MANCHAS"},{"id":"C117A","nombre":"Puntagorda"},{"id":"C101A","nombre":"Roque de los Muchachos"},{"id":"C148F","nombre":"San Andrés y Sauces"},{"id":"C117Z","nombre":"Tijarafe"}],"id":"383","nombre":"Santa Cruz de Tenerife (La Palma)"},{"idLocation":"65381","idccaa":"coo","estaciones":[{"id":"C419X","nombre":"Adeje"},{"id":"C449F","nombre":"Anaga"},{"id":"C428T","nombre":"Arico"},{"id":"C438N","nombre":"Candelaria"},{"id":"C469E","nombre":"Garachico - La Quinta"},{"id":"C439J","nombre":"Güímar"},{"id":"C430E","nombre":"Izaña"},{"id":"C406G","nombre":"La Orotava, Cañadas Teide"},{"id":"C457I","nombre":"La Victoria de Acentejo"},{"id":"C446G","nombre":"San Cristóbal de La Laguna,Llano de los Loros"},{"id":"C468X","nombre":"San Juan de la Rambla"},{"id":"C449C","nombre":"Sta.Cruz de Tenerife"},{"id":"C458A","nombre":"Tacoronte"},{"id":"C447A","nombre":"Tenerife Norte Aeropuerto"},{"id":"C429I","nombre":"Tenerife Sur Aeropuerto"},{"id":"C458Z","nombre":"Valle de la Orotava"}],"id":"381","nombre":"Santa Cruz de Tenerife (Tenerife)"}],"idLocation":"65","id":"coo","nombre":"Canarias"},{"provincias":[{"idLocation":"6639","idccaa":"can","estaciones":[{"id":"9001S","nombre":"Alto Campoo"},{"id":"1096X","nombre":"Barcena de Cicero, Treto"},{"id":"1167H","nombre":"Cabaña Verónica, Parque Nacional Picos de Europa"},{"id":"1167B","nombre":"Camaleño, Fuente De"},{"id":"1083L","nombre":"Castro Urdiales"},{"id":"1174I","nombre":"Cillorigo de Liébana, Tama"},{"id":"1167J","nombre":"Coriscao, Parque Nacional Picos de Europa"},{"id":"1135C","nombre":"Los Tojos, Bárcena Mayor"},{"id":"1167G","nombre":"Mirador del Cable, Parque Nacional Picos de Europa"},{"id":"9019X","nombre":"Polientes (Valderredible)"},{"id":"1089U","nombre":"Ramales de la Victoria"},{"id":"9001D","nombre":"Reinosa"},{"id":"1152C","nombre":"San Felices de Buelna"},{"id":"1103X","nombre":"San Roque de Riomiera"},{"id":"1111X","nombre":"Santander"},{"id":"1109X","nombre":"Santander Aeropuerto"},{"id":"1740","nombre":"Santillana del Mar, Altamira"},{"id":"1159","nombre":"San Vicente de la Barquera"},{"id":"1154H","nombre":"Torrelavega, Sierrapando"},{"id":"1176A","nombre":"Tresviso"},{"id":"9016X","nombre":"Valderredible, Cubillo de Ebro"},{"id":"1124E","nombre":"Villacarriedo"}],"id":"39","nombre":"Cantabria"}],"idLocation":"66","id":"can","nombre":"Cantabria"},{"provincias":[{"idLocation":"6802","idccaa":"clm","estaciones":[{"id":"8178D","nombre":"Albacete"},{"id":"8175","nombre":"Albacete Base Aérea"},{"id":"8191Y","nombre":"Alcalá del Júcar"},{"id":"8198Y","nombre":"Almansa"},{"id":"8177A","nombre":"Chinchilla"},{"id":"7096B","nombre":"Hellín"},{"id":"4096Y","nombre":"Munera"},{"id":"7067Y","nombre":"Nerpio"},{"id":"4007Y","nombre":"Ossa de Montiel"},{"id":"7103Y","nombre":"Tobarra"},{"id":"4091Y","nombre":"Villarrobledo"},{"id":"7072Y","nombre":"Yeste"},{"id":"7066Y","nombre":"Yeste, Embalse Fuensanta"}],"id":"02","nombre":"Albacete"},{"idLocation":"6813","idccaa":"clm","estaciones":[{"id":"4210Y","nombre":"Abenójar"},{"id":"4064Y","nombre":"Alcazar de San Juan"},{"id":"4195E","nombre":"Alcornoquera, Parque Nacional Cabañeros"},{"id":"4300Y","nombre":"Almadén"},{"id":"4121","nombre":"Ciudad Real"},{"id":"5341C","nombre":"Fuencaliente"},{"id":"4220X","nombre":"Puebla de Don Rodrigo"},{"id":"5304Y","nombre":"Puertollano"},{"id":"4103X","nombre":"Tomelloso"},{"id":"4147X","nombre":"Valdepeñas"},{"id":"4138Y","nombre":"Villanueva de los Infantes"},{"id":"4148","nombre":"Viso del Marqués"}],"id":"13","nombre":"Ciudad Real"},{"idLocation":"6816","idccaa":"clm","estaciones":[{"id":"4070Y","nombre":"Abia de Obispalia"},{"id":"4089A","nombre":"Alberca de Zancara"},{"id":"4051Y","nombre":"Alcázar del Rey"},{"id":"4095Y","nombre":"Belmonte"},{"id":"3040Y","nombre":"Beteta"},{"id":"8096","nombre":"Cuenca"},{"id":"8245Y","nombre":"Mira"},{"id":"8155Y","nombre":"Motilla del Palancar"},{"id":"4093Y","nombre":"Osa de la Vega"},{"id":"8210Y","nombre":"Salvacañete"},{"id":"4090Y","nombre":"San Clemente"},{"id":"3094B","nombre":"Tarancón"},{"id":"4075Y","nombre":"Villares del Saz"}],"id":"16","nombre":"Cuenca"},{"idLocation":"6819","idccaa":"clm","estaciones":[{"id":"3209Y","nombre":"Brihuega"},{"id":"3158D","nombre":"Campisábalos"},{"id":"9377Y","nombre":"El Pedregal"},{"id":"3168D","nombre":"Guadalajara"},{"id":"3140Y","nombre":"Mandayona"},{"id":"3013","nombre":"Molina de Aragón"},{"id":"3103","nombre":"Pantano el Vado"},{"id":"3085Y","nombre":"Pastrana"},{"id":"3130C","nombre":"Sigüenza"},{"id":"3021Y","nombre":"Zaorejas"}],"id":"19","nombre":"Guadalajara"},{"idLocation":"6845","idccaa":"clm","estaciones":[{"id":"4067","nombre":"Madridejos"},{"id":"3254Y","nombre":"Mora"},{"id":"3305Y","nombre":"Navahermosa"},{"id":"3099Y","nombre":"Ocaña"},{"id":"3427Y","nombre":"Oropesa"},{"id":"4061X","nombre":"Quintanar de la Orden"},{"id":"3365A","nombre":"Talavera de la Reina"},{"id":"3245Y","nombre":"Tembleque"},{"id":"3260B","nombre":"Toledo"}],"id":"45","nombre":"Toledo"}],"idLocation":"68","id":"clm","nombre":"Castilla-La Mancha"},{"provincias":[{"idLocation":"6705","idccaa":"cle","estaciones":[{"id":"2456B","nombre":"Arevalo"},{"id":"2444","nombre":"Ávila"},{"id":"2828Y","nombre":"Barco de Avila"},{"id":"3422D","nombre":"Candeleda"},{"id":"3337U","nombre":"Cebreros"},{"id":"2453E","nombre":"Gotarrendura"},{"id":"2430Y","nombre":"Muñotello"},{"id":"3394X","nombre":"Piedralaves"},{"id":"3319D","nombre":"Puerto del Pico"},{"id":"2512Y","nombre":"Rivilla de Barajas"}],"id":"05","nombre":"Ávila"},{"idLocation":"6709","idccaa":"cle","estaciones":[{"id":"2117D","nombre":"Aranda de Duero"},{"id":"9111","nombre":"Belorado"},{"id":"9031C","nombre":"Briviesca"},{"id":"2331","nombre":"Burgos Aeropuerto"},{"id":"2106B","nombre":"Coruña del Conde"},{"id":"9051","nombre":"Medina de Pomar"},{"id":"9069C","nombre":"Miranda de Ebro"},{"id":"2302N","nombre":"Monterrubio de la Demanda"},{"id":"2298","nombre":"Palacios de la Sierra"},{"id":"2290Y","nombre":"Pedrosa del Príncipe"},{"id":"9012E","nombre":"Santa Gadea de Alfoz"},{"id":"2285B","nombre":"Villadiego"},{"id":"2311Y","nombre":"Villamayor de los Montes"}],"id":"09","nombre":"Burgos"},{"idLocation":"6724","idccaa":"cle","estaciones":[{"id":"2734D","nombre":"Astorga"},{"id":"2701D","nombre":"Barrios de Luna, Miñera"},{"id":"2742R","nombre":"Bustillo del Páramo"},{"id":"1178E","nombre":"Cordiñanes de Valdeón, Parque Nacional Picos de Europa"},{"id":"2626Y","nombre":"Cubillas de Rueda"},{"id":"2737E","nombre":"Lagunas de Somoza"},{"id":"2661","nombre":"León, Virgen del Camino"},{"id":"1191D","nombre":"Pico Cotorra, Parque Nacional Picos de Europa"},{"id":"1549","nombre":"Ponferrada"},{"id":"1178Y","nombre":"Posada de Valdeón, Soto"},{"id":"2728B","nombre":"Quintana del Castillo, Villameca"},{"id":"2624C","nombre":"Riaño"},{"id":"2664B","nombre":"Valencia de Don Juan"},{"id":"1561I","nombre":"Vega de Espinareda"},{"id":"1541B","nombre":"Villablino"}],"id":"24","nombre":"León"},{"idLocation":"6734","idccaa":"cle","estaciones":[{"id":"2243A","nombre":"Aguilar de Campoo"},{"id":"2400E","nombre":"Autilla del Pino"},{"id":"2374X","nombre":"Carrión de los Condes"},{"id":"2235U","nombre":"Cervera de Pisuerga"},{"id":"2401X","nombre":"Palencia"},{"id":"2568D","nombre":"Santervás de la Vega, Villapún"},{"id":"2362C","nombre":"Velilla del Río Carrión, Camporredondo de Alba"},{"id":"2276B","nombre":"Villaeles de Valdavia"}],"id":"34","nombre":"Palencia"},{"idLocation":"6737","idccaa":"cle","estaciones":[{"id":"2926B","nombre":"Bañobárez"},{"id":"2873X","nombre":"Barbadillo"},{"id":"2914C","nombre":"Boadilla Fuente San Esteban"},{"id":"2945A","nombre":"El Bodón Base Aérea"},{"id":"2918Y","nombre":"El Maíllo"},{"id":"2491C","nombre":"La Covatilla, estación de esquí"},{"id":"2930Y","nombre":"Navasfrías"},{"id":"2863C","nombre":"Pedraza de Alba"},{"id":"2847X","nombre":"Pedrosillo de Los Aires"},{"id":"2946X","nombre":"Saelices El Chico"},{"id":"2870X","nombre":"Salamanca"},{"id":"2867","nombre":"Salamanca Aeropuerto"},{"id":"3484X","nombre":"San Esteban de la Sierra"},{"id":"2891A","nombre":"Villarino de los Aires"},{"id":"2916A","nombre":"Vitigudino"}],"id":"37","nombre":"Salamanca"},{"idLocation":"6740","idccaa":"cle","estaciones":[{"id":"2140A","nombre":"Aldeanueva de Serrezuela"},{"id":"2192C","nombre":"Cuéllar"},{"id":"2135A","nombre":"Fresno de Cantespino"},{"id":"2482B","nombre":"Miguelañez"},{"id":"2182C","nombre":"Pedraza"},{"id":"2471Y","nombre":"San Rafael"},{"id":"2465","nombre":"Segovia"}],"id":"40","nombre":"Segovia"},{"idLocation":"6742","idccaa":"cle","estaciones":[{"id":"9352A","nombre":"Almazul"},{"id":"9344C","nombre":"Arcos de Jalón"},{"id":"2092","nombre":"Burgo de Osma"},{"id":"2017Y","nombre":"La Póveda de Soria, Barriomartín"},{"id":"2059B","nombre":"La Riba de Escalote"},{"id":"2096B","nombre":"Liceras"},{"id":"2044B","nombre":"Lubia"},{"id":"2048A","nombre":"Morón de Almazán"},{"id":"2296A","nombre":"Ólvega"},{"id":"9287A","nombre":"San Pedro Manrique"},{"id":"2030","nombre":"Soria"},{"id":"2084Y","nombre":"Ucero"},{"id":"2005Y","nombre":"Vinuesa, Quintanarejo"}],"id":"42","nombre":"Soria"},{"idLocation":"6747","idccaa":"cle","estaciones":[{"id":"2517A","nombre":"Fuente el Sol"},{"id":"2604B","nombre":"Medina de Rioseco"},{"id":"2503B","nombre":"Olmedo, Depósito de Agua"},{"id":"2166Y","nombre":"Peñafiel"},{"id":"2507Y","nombre":"Rueda"},{"id":"2172Y","nombre":"Sardón de Duero"},{"id":"2422","nombre":"Valladolid"},{"id":"2422X","nombre":"Valladolid - Vivero Forestal"},{"id":"2593D","nombre":"Villalón de Campos"}],"id":"47","nombre":"Valladolid"},{"idLocation":"6749","idccaa":"cle","estaciones":[{"id":"2966D","nombre":"Alcañices"},{"id":"2755X","nombre":"Benavente"},{"id":"2565","nombre":"Coreses"},{"id":"2885K","nombre":"Fresno de Sayago"},{"id":"2555B","nombre":"Fuentesauco"},{"id":"2536D","nombre":"Morales del Toro"},{"id":"2882D","nombre":"Peñausende"},{"id":"2789H","nombre":"Pozuelo de Tabara"},{"id":"2766E","nombre":"Sanabria, Robleda-Cervantes"},{"id":"2777K","nombre":"Santibañez de Vidriales"},{"id":"2804F","nombre":"Villadepera"},{"id":"2611D","nombre":"Villafáfila"},{"id":"2775X","nombre":"Villardeciervos"},{"id":"2614","nombre":"Zamora"}],"id":"49","nombre":"Zamora"}],"idLocation":"67","id":"cle","nombre":"Castilla y León"},{"provincias":[{"idLocation":"6908","idccaa":"cat","estaciones":[{"id":"0252D","nombre":"Arenys de Mar"},{"id":"0106X","nombre":"Balsareny"},{"id":"0201X","nombre":"Barcelona, Drassanes"},{"id":"0201D","nombre":"Barcelona, Port Olímpic"},{"id":"0076","nombre":"Barcelona Aeropuerto"},{"id":"0092X","nombre":"Berga"},{"id":"0222X","nombre":"Caldes de Montbui"},{"id":"0194D","nombre":"Corbera, Puig d'Agulles"},{"id":"0260X","nombre":"Fogars de Montclús"},{"id":"0171F","nombre":"Igualada"},{"id":"0149X","nombre":"Manresa"},{"id":"0120X","nombre":"Moià"},{"id":"0158X","nombre":"Monistrol de Montserrat"},{"id":"0061X","nombre":"Pontons"},{"id":"0114X","nombre":"Prats de Lluçanès"},{"id":"0349","nombre":"Sant Julià  de Vilatorta"},{"id":"0073X","nombre":"Sitges"},{"id":"0066X","nombre":"Vilafranca del Penedès"},{"id":"0244X","nombre":"Vilassar de Dalt"}],"id":"08","nombre":"Barcelona"},{"idLocation":"6917","idccaa":"cat","estaciones":[{"id":"0281Y","nombre":"Blanes"},{"id":"0284X","nombre":"Castell d'Aro"},{"id":"0411X","nombre":"Castelló d'Empúries"},{"id":"0433X","nombre":"El Port de la Selva"},{"id":"0421X","nombre":"Espolla"},{"id":"0429X","nombre":"Figueres"},{"id":"0370E","nombre":"Girona"},{"id":"0367","nombre":"Girona Aeropuerto"},{"id":"0385X","nombre":"L'Estartit"},{"id":"9585","nombre":"La Molina"},{"id":"0394X","nombre":"La Vall de Bianya"},{"id":"0360X","nombre":"Les Planes d'Hostoles"},{"id":"0413A","nombre":"Maçanet de Cabrenys"},{"id":"0320I","nombre":"Planoles"},{"id":"0372C","nombre":"Porqueres"},{"id":"0324A","nombre":"Ripoll"},{"id":"0363X","nombre":"Sant Hilari"},{"id":"0312X","nombre":"Sant Pau de Segúries"}],"id":"17","nombre":"Girona"},{"idLocation":"6925","idccaa":"cat","estaciones":[{"id":"9650X","nombre":"Artesa de Segre"},{"id":"9994X","nombre":"Bossòst"},{"id":"9590D","nombre":"Cap de Rec"},{"id":"9988B","nombre":"Cap de Vaquèira"},{"id":"9638D","nombre":"Coll de Nargó"},{"id":"9775X","nombre":"El Soleràs"},{"id":"9776D","nombre":"Els Torms"},{"id":"9657X","nombre":"Esterri d'Àneu"},{"id":"9772X","nombre":"La Pobla de Cérvoles"},{"id":"9622X","nombre":"La Seu d'Urgell, Aeroport"},{"id":"9771C","nombre":"Lleida"},{"id":"9707","nombre":"Llimiana"},{"id":"9590","nombre":"Martinet"},{"id":"9729X","nombre":"Mollerussa"},{"id":"9990X","nombre":"Naut Aran, Arties"},{"id":"9724X","nombre":"Os de Balaguer"},{"id":"9677","nombre":"Port Ainé"},{"id":"0131X","nombre":"Riner"},{"id":"9698U","nombre":"Talarn"},{"id":"9647X","nombre":"Torà"},{"id":"9718X","nombre":"Tordera - Granyanella"},{"id":"9689X","nombre":"Torre de Cabdella"},{"id":"9632X","nombre":"Tuixent"},{"id":"9744B","nombre":"Vall de Boí"}],"id":"25","nombre":"Lleida"},{"idLocation":"6943","idccaa":"cat","estaciones":[{"id":"0009X","nombre":"Alforja"},{"id":"9961X","nombre":"Cabacés"},{"id":"9981A","nombre":"Estación de Tortosa (Roquetes)"},{"id":"9946X","nombre":"Horta de Sant Joan"},{"id":"9947X","nombre":"La Pobla de Massaluca"},{"id":"9726E","nombre":"Llorac"},{"id":"9975X","nombre":"Rasquera"},{"id":"0016A","nombre":"Reus Aeropuerto"},{"id":"9987P","nombre":"Sant Jaume d'Enveja"},{"id":"0042Y","nombre":"Tarragona"},{"id":"0034X","nombre":"Valls"},{"id":"0002I","nombre":"Vandellòs"}],"id":"43","nombre":"Tarragona"}],"idLocation":"69","id":"cat","nombre":"Cataluña"},{"provincias":[{"idLocation":"7851","idccaa":"ceu","estaciones":[{"id":"5000D","nombre":"Ceuta"}],"id":"51","nombre":"Ceuta"}],"idLocation":"78","id":"ceu","nombre":"Ciudad de Ceuta"},{"provincias":[{"idLocation":"7952","idccaa":"mel","estaciones":[{"id":"6000A","nombre":"Melilla"}],"id":"52","nombre":"Melilla"}],"idLocation":"79","id":"mel","nombre":"Ciudad de Melilla"},{"provincias":[{"idLocation":"7228","idccaa":"mad","estaciones":[{"id":"3170Y","nombre":"Alcala de Henares"},{"id":"3268C","nombre":"Alpedrete"},{"id":"3100B","nombre":"Aranjuez"},{"id":"3182Y","nombre":"Arganda del Rey"},{"id":"3110C","nombre":"Buitrago del Lozoya"},{"id":"3191E","nombre":"Colmenar Viejo"},{"id":"3194U","nombre":"Madrid, Ciudad Universitaria"},{"id":"3126Y","nombre":"Madrid, El Goloso"},{"id":"3195","nombre":"Madrid, Retiro"},{"id":"3129","nombre":"Madrid Aeropuerto"},{"id":"3194Y","nombre":"Pozuelo de Alarcón"},{"id":"3266A","nombre":"Puerto Alto del León"},{"id":"2462","nombre":"Puerto de Navacerrada"},{"id":"3104Y","nombre":"Rascafría"},{"id":"3338","nombre":"Robledo de Chavela"},{"id":"3330Y","nombre":"Rozas de Puerto Real"},{"id":"3125Y","nombre":"San Sebastián de Los Reyes"},{"id":"3111D","nombre":"Somosierra"},{"id":"3229Y","nombre":"Tielmes"},{"id":"3343Y","nombre":"Valdemorillo"},{"id":"3121F","nombre":"Venturada"},{"id":"3344E","nombre":"Villanueva de la Cañada"}],"id":"28","nombre":"Madrid"}],"idLocation":"72","id":"mad","nombre":"Comunidad de Madrid"},{"provincias":[{"idLocation":"7431","idccaa":"nav","estaciones":[{"id":"9263X","nombre":"Aranguren, Ilundain"},{"id":"1033X","nombre":"Areso"},{"id":"9294E","nombre":"Bardenas Reales, Base Aérea"},{"id":"1002Y","nombre":"Baztan, Irurita"},{"id":"1010X","nombre":"Bera"},{"id":"9245X","nombre":"Cáseda"},{"id":"9257X","nombre":"Esteribar, Embalse de Eugi"},{"id":"9274X","nombre":"Irurtzun"},{"id":"9218A","nombre":"Isaba\/Izaba"},{"id":"9280B","nombre":"Larraga"},{"id":"9171K","nombre":"Los Arcos"},{"id":"9262P","nombre":"Monreal\/Elo"},{"id":"9301X","nombre":"Monteagudo"},{"id":"9238X","nombre":"Navascués\/Nabaskoze"},{"id":"9252X","nombre":"Olite\/Erriberri"},{"id":"9228J","nombre":"Oroz-Betelu\/Orotz-Betelu"},{"id":"9263D","nombre":"Pamplona, Aeropuerto"},{"id":"9228T","nombre":"Roncesvalles\/Orreaga"},{"id":"9302Y","nombre":"Tudela"},{"id":"9995Y","nombre":"Valcarlos\/Luzaide"}],"id":"31","nombre":"Navarra"}],"idLocation":"74","id":"nav","nombre":"Comunidad Foral de Navarra"},{"provincias":[{"idLocation":"7703","idccaa":"val","estaciones":[{"id":"8025","nombre":"Alacant\/Alicante"},{"id":"8059C","nombre":"Alcoi\/Alcoy"},{"id":"8019","nombre":"Alicante-Elche Aeropuerto"},{"id":"8036Y","nombre":"Benidorm"},{"id":"7247X","nombre":"el Pinós\/Pinoso"},{"id":"8018X","nombre":"Elx\/Elche"},{"id":"8050X","nombre":"Jávea\/ Xàbia"},{"id":"8013X","nombre":"Novelda"},{"id":"7244X","nombre":"Orihuela"},{"id":"8057C","nombre":"Pego"},{"id":"7261X","nombre":"Rojales"},{"id":"8008Y","nombre":"Villena"}],"id":"03","nombre":"Alacant\/Alicante"},{"idLocation":"7712","idccaa":"val","estaciones":[{"id":"8492X","nombre":"Atzeneta del Maestrat"},{"id":"8433X","nombre":"Bejís"},{"id":"9563X","nombre":"Castellfort"},{"id":"8500A","nombre":"Castelló - Almassora"},{"id":"8520X","nombre":"La Pobla de Benifassà-Fredes"},{"id":"8472A","nombre":"Montanejos"},{"id":"9562X","nombre":"Morella"},{"id":"8439X","nombre":"Segorbe"},{"id":"8503Y","nombre":"Torreblanca"},{"id":"8489X","nombre":"Villafranca del Cid\/Vilafranca"},{"id":"8518X","nombre":"Vinaròs-Viveros Alcanar"}],"id":"12","nombre":"Castelló\/Castellón"},{"idLocation":"7746","idccaa":"val","estaciones":[{"id":"8381X","nombre":"Ademuz"},{"id":"8072Y","nombre":"Barx"},{"id":"8270X","nombre":"Bicorp"},{"id":"8300X","nombre":"Carcaixent"},{"id":"8395X","nombre":"Chelva"},{"id":"8005X","nombre":"Fontanars dels Alforins"},{"id":"8193E","nombre":"Jalance"},{"id":"8409X","nombre":"Llíria"},{"id":"8058Y","nombre":"Miramar"},{"id":"8058X","nombre":"Oliva"},{"id":"8283X","nombre":"Ontinyent"},{"id":"8325X","nombre":"Polinyà de Xúquer"},{"id":"8446Y","nombre":"Sagunt\/Sagunto"},{"id":"8328X","nombre":"Sollana"},{"id":"8337X","nombre":"Turís"},{"id":"8309X","nombre":"Utiel"},{"id":"8416","nombre":"València"},{"id":"8414A","nombre":"Valencia Aeropuerto"},{"id":"8293X","nombre":"Xàtiva"},{"id":"8203O","nombre":"Zarra"}],"id":"46","nombre":"València\/Valencia"}],"idLocation":"77","id":"val","nombre":"Comunitat Valenciana"},{"provincias":[{"idLocation":"7006","idccaa":"ext","estaciones":[{"id":"4464X","nombre":"Alburquerque"},{"id":"4489X","nombre":"Alconchel"},{"id":"4436Y","nombre":"Almendralejo"},{"id":"5473X","nombre":"Azuaga"},{"id":"4478X","nombre":"Badajoz"},{"id":"4452","nombre":"Badajoz Aeropuerto"},{"id":"4492F","nombre":"Barcarrota"},{"id":"4325Y","nombre":"Castuera"},{"id":"4358X","nombre":"Don Benito"},{"id":"4520X","nombre":"Fregenal de la Sierra"},{"id":"4501X","nombre":"Fuente de Cantos"},{"id":"4244X","nombre":"Herrera del Duque"},{"id":"4511C","nombre":"Jerez de los Caballeros"},{"id":"4386B","nombre":"Llerena"},{"id":"4410X","nombre":"Mérida"},{"id":"4499X","nombre":"Monesterio"},{"id":"4340","nombre":"Navalvillar de Pela"},{"id":"4486X","nombre":"Olivenza"},{"id":"4260","nombre":"Peraleda del Zaucejo"},{"id":"4468X","nombre":"Puebla de Obando"},{"id":"4362X","nombre":"Retamal de Llerena"},{"id":"4442X","nombre":"Santa Marta"},{"id":"4395X","nombre":"Villafranca de los Barros"},{"id":"4497X","nombre":"Villanueva del Fresno"},{"id":"4427X","nombre":"Zafra"}],"id":"06","nombre":"Badajoz"},{"idLocation":"7010","idccaa":"ext","estaciones":[{"id":"4411C","nombre":"Alcuescar"},{"id":"3562X","nombre":"Aliseda"},{"id":"3565X","nombre":"Brozas"},{"id":"3469A","nombre":"Cáceres"},{"id":"4339X","nombre":"Cañamero"},{"id":"3475X","nombre":"Cañaveral"},{"id":"3526X","nombre":"Coria"},{"id":"3436D","nombre":"Garganta la Olla"},{"id":"4245X","nombre":"Guadalupe"},{"id":"3503","nombre":"Guijo de Granadilla"},{"id":"3504X","nombre":"Hervás"},{"id":"3536X","nombre":"Hoyos"},{"id":"3455X","nombre":"Jaraicejo"},{"id":"3423I","nombre":"Madrigal de la Vera"},{"id":"3512X","nombre":"Montehermoso"},{"id":"3434X","nombre":"Navalmoral de la Mata"},{"id":"3386A","nombre":"Navalvillar de Ibor"},{"id":"3494U","nombre":"Nuñomoral"},{"id":"3516X","nombre":"Piornal"},{"id":"3518X","nombre":"Plasencia"},{"id":"4236Y","nombre":"Puerto Rey"},{"id":"3448X","nombre":"Serradilla"},{"id":"3514B","nombre":"Tornavacas"},{"id":"3531X","nombre":"Torrecilla de los Angeles"},{"id":"3463Y","nombre":"Trujillo"},{"id":"3576X","nombre":"Valencia de Alcántara"},{"id":"3547X","nombre":"Valverde del Fresno"},{"id":"3540X","nombre":"Zarza La Mayor"},{"id":"4347X","nombre":"Zorita"}],"id":"10","nombre":"Cáceres"}],"idLocation":"70","id":"ext","nombre":"Extremadura"},{"provincias":[{"idLocation":"7115","idccaa":"gal","estaciones":[{"id":"1387","nombre":"A Coruña"},{"id":"1387E","nombre":"A Coruña Aeropuerto"},{"id":"1387D","nombre":"A Coruña Bens"},{"id":"1363X","nombre":"As Pontes"},{"id":"1442U","nombre":"Boiro"},{"id":"1390X","nombre":"Carballo, Depuradora"},{"id":"1351","nombre":"Estaca de Bares"},{"id":"1400","nombre":"Fisterra"},{"id":"1406X","nombre":"Mazaricos"},{"id":"1437P","nombre":"Monte Iroite"},{"id":"1435C","nombre":"Noia"},{"id":"1473A","nombre":"Padrón"},{"id":"1476R","nombre":"Rois, Casas do Porto"},{"id":"1475X","nombre":"Santiago de Compostela"},{"id":"1428","nombre":"Santiago de Compostela Aeropuerto"},{"id":"1410X","nombre":"Sobrado"},{"id":"1399","nombre":"Vimianzo"}],"id":"15","nombre":"A Coruña"},{"idLocation":"7127","idccaa":"gal","estaciones":[{"id":"1521X","nombre":"Becerreá"},{"id":"1347T","nombre":"Burela"},{"id":"1297E","nombre":"Cervantes"},{"id":"1658","nombre":"Folgoso do Courel"},{"id":"1518A","nombre":"Lugo"},{"id":"1505","nombre":"Lugo Aeropuerto"},{"id":"1344X","nombre":"Mondoñedo"},{"id":"1679A","nombre":"Monforte de Lemos"},{"id":"1446X","nombre":"Monterroso"},{"id":"1521I","nombre":"O Páramo"},{"id":"1535I","nombre":"O Saviñao"},{"id":"1342X","nombre":"Ribadeo"}],"id":"27","nombre":"Lugo"},{"idLocation":"7132","idccaa":"gal","estaciones":[{"id":"2969U","nombre":"A Gudiña"},{"id":"1706A","nombre":"Allariz"},{"id":"1631E","nombre":"A Pobra de Trives"},{"id":"1696O","nombre":"Beariz"},{"id":"1639X","nombre":"Chandrexa de Queixa"},{"id":"1738U","nombre":"Muiños"},{"id":"1583X","nombre":"O Barco de Valdeorras"},{"id":"1700X","nombre":"O Carballiño"},{"id":"1690A","nombre":"Ourense"},{"id":"1701X","nombre":"Ribadavia"},{"id":"2978X","nombre":"Verín"},{"id":"1735X","nombre":"Xinzo de Limia"}],"id":"32","nombre":"Ourense"},{"idLocation":"7136","idccaa":"gal","estaciones":[{"id":"1719","nombre":"A Cañiza"},{"id":"1468X","nombre":"A Estrada"},{"id":"1489A","nombre":"A Lama"},{"id":"1486E","nombre":"Escuela Naval de Marín"},{"id":"1730E","nombre":"O Rosal"},{"id":"1723X","nombre":"Ponteareas, Canedo"},{"id":"1484C","nombre":"Pontevedra"},{"id":"1466A","nombre":"Silleda"},{"id":"1496X","nombre":"Vigo"},{"id":"1495","nombre":"Vigo Aeropuerto"},{"id":"1477V","nombre":"Vilagarcía de Arousa"}],"id":"36","nombre":"Pontevedra"}],"idLocation":"71","id":"gal","nombre":"Galicia"},{"provincias":[{"idLocation":"64073","idccaa":"bal","estaciones":[{"id":"B957","nombre":"Eivissa"},{"id":"B986","nombre":"Formentera"},{"id":"B954","nombre":"Ibiza, Aeropuerto"},{"id":"B925","nombre":"Sant Antoni de Portmany"},{"id":"B908X","nombre":"Sant Joan de Labritja"}],"id":"073","nombre":"Illes Balears (Ibiza-Formentera)"},{"idLocation":"64072","idccaa":"bal","estaciones":[{"id":"B103B","nombre":"Andratx - Sant Elm"},{"id":"B526X","nombre":"Artà"},{"id":"B603X","nombre":"Artà-Colònia de Sant Pere"},{"id":"B087X","nombre":"Banyalbufar"},{"id":"B662X","nombre":"Binissalem"},{"id":"B398A","nombre":"Cabrera, Parque Nacional de Cabrera"},{"id":"B158X","nombre":"Calvià, Es Capdellà"},{"id":"B362X","nombre":"Campos, Can Sion"},{"id":"B373X","nombre":"Campos, Salines Llevant"},{"id":"B569X","nombre":"Capdepera"},{"id":"B013X","nombre":"Escorca, Lluc"},{"id":"B684A","nombre":"Escorca, Son Torrella"},{"id":"B334X","nombre":"Llucmajor"},{"id":"B301","nombre":"Llucmajor, radar"},{"id":"B614E","nombre":"Manacor"},{"id":"B605X","nombre":"Muro, S'Albufera"},{"id":"B228","nombre":"Palma, Puerto"},{"id":"B236C","nombre":"Palma, Universitat"},{"id":"B278","nombre":"Palma de Mallorca, Aeropuerto"},{"id":"B640X","nombre":"Petra"},{"id":"B760X","nombre":"Pollença"},{"id":"B341X","nombre":"Porreres"},{"id":"B780X","nombre":"Port de Pollença"},{"id":"B434X","nombre":"Portocolom"},{"id":"B656A","nombre":"Santa María del Camí"},{"id":"B410B","nombre":"Santanyí"},{"id":"B691Y","nombre":"Sa Pobla"},{"id":"B644B","nombre":"Sineu"},{"id":"B051A","nombre":"Sóller, Puerto"},{"id":"B275E","nombre":"Son Bonet, Aeropuerto"},{"id":"B496X","nombre":"Son Servera"}],"id":"072","nombre":"Illes Balears (Mallorca)"},{"idLocation":"64071","idccaa":"bal","estaciones":[{"id":"B860X","nombre":"Ciutadella"},{"id":"B870C","nombre":"Ciutadella, Cala Galdana"},{"id":"B825B","nombre":"Es Mercadal"},{"id":"B800X","nombre":"La Mola, Maó"},{"id":"B893","nombre":"Menorca, Aeropuerto"}],"id":"071","nombre":"Illes Balears (Menorca)"}],"idLocation":"64","id":"bal","nombre":"Illes Balears"},{"provincias":[{"idLocation":"7626","idccaa":"rio","estaciones":[{"id":"9293X","nombre":"Alfaro, La Plana"},{"id":"9136X","nombre":"Anguiano, Valvanera"},{"id":"9145Y","nombre":"Cenicero"},{"id":"9188","nombre":"Enciso"},{"id":"9121X","nombre":"Haro"},{"id":"9170","nombre":"Logroño, Aeropuerto"},{"id":"9141V","nombre":"Nájera"},{"id":"9115X","nombre":"Valdezcaray"}],"id":"26","nombre":"La Rioja"}],"idLocation":"76","id":"rio","nombre":"La Rioja"},{"provincias":[{"idLocation":"7501","idccaa":"pva","estaciones":[{"id":"9073X","nombre":"Agurain\/Salvatierra, Opakua"},{"id":"1060X","nombre":"Amurrio"},{"id":"1044X","nombre":"Aramaio, Etxaguen"},{"id":"9178X","nombre":"Campezo\/Kanpezu"},{"id":"9122I","nombre":"Labastida"},{"id":"9060X","nombre":"Lalastra"},{"id":"9145X","nombre":"Leza"},{"id":"9091R","nombre":"Vitoria-Gasteiz Aeropuerto"}],"id":"01","nombre":"Araba\/Álava"},{"idLocation":"7548","idccaa":"pva","estaciones":[{"id":"1069Y","nombre":"Abadiño, Urkiola"},{"id":"1074C","nombre":"Amorebieta-Etxano"},{"id":"1078C","nombre":"Balmaseda"},{"id":"1082","nombre":"Bilbao Aeropuerto"},{"id":"1056K","nombre":"Forua"},{"id":"1078I","nombre":"Güeñes"},{"id":"1057B","nombre":"Matxitxako"},{"id":"1064L","nombre":"Orozko, Ibarra"},{"id":"1059X","nombre":"Punta Galea"},{"id":"1083B","nombre":"Sopuerta"}],"id":"48","nombre":"Bizkaia"},{"idLocation":"7520","idccaa":"pva","estaciones":[{"id":"1048X","nombre":"Aretxabaleta"},{"id":"1038X","nombre":"Azpeitia"},{"id":"1025X","nombre":"Beasain, Arriaran"},{"id":"1014A","nombre":"Donostia \/ San Sebastián Aeropuerto"},{"id":"1049N","nombre":"Elgeta"},{"id":"1050J","nombre":"Elgoibar"},{"id":"1021X","nombre":"Errenteria, Añarbe"},{"id":"1024X","nombre":"Igeldo"},{"id":"1012P","nombre":"Irun"},{"id":"1037X","nombre":"Legazpi"},{"id":"1052A","nombre":"Mutriku"},{"id":"1026X","nombre":"Ordizia"},{"id":"1025A","nombre":"Segura"},{"id":"1041A","nombre":"Zumaia"},{"id":"1037Y","nombre":"Zumarraga"}],"id":"20","nombre":"Gipuzkoa"}],"idLocation":"75","id":"pva","nombre":"País Vasco"},{"provincias":[{"idLocation":"6333","idccaa":"ast","estaciones":[{"id":"1226X","nombre":"Aller, Felechosa"},{"id":"1186P","nombre":"Amieva, Panizales"},{"id":"1212E","nombre":"Asturias Aeropuerto"},{"id":"1283U","nombre":"Cabo Busto"},{"id":"1210X","nombre":"Cabo Peñas"},{"id":"1179B","nombre":"Cabrales"},{"id":"1263X","nombre":"Cangas del Narcea-San Pedru Culiema"},{"id":"1331A","nombre":"Castropol"},{"id":"1204X","nombre":"Colunga-Lluces-Aspo"},{"id":"1302F","nombre":"Degaña"},{"id":"1207U","nombre":"Gijón, Campus"},{"id":"1309C","nombre":"Ibias, San Antolin"},{"id":"1223P","nombre":"Lena, Ronzón"},{"id":"1183X","nombre":"Llanes"},{"id":"1234P","nombre":"Mieres, Baiña"},{"id":"1183J","nombre":"Niembru-Llanes"},{"id":"1249X","nombre":"Oviedo"},{"id":"1221D","nombre":"Pajares-Valgrande"},{"id":"1199X","nombre":"Piloña, Bargaéu"},{"id":"1276F","nombre":"Pola de Somiedo"},{"id":"1542","nombre":"Puerto de Leitariegos"},{"id":"1279X","nombre":"Salas, Camuño"},{"id":"1178R","nombre":"Sotres, Parque Nacional Picos de Europa"},{"id":"1341B","nombre":"Taramundi, Ouria"},{"id":"1272B","nombre":"Tineo, Soutu"},{"id":"1178M","nombre":"Vega de Ario, Parque Nacional Picos de Europa"},{"id":"1178I","nombre":"Vega de Urriellu, Parque Nacional Picos de Europa"},{"id":"1327A","nombre":"Villayón, Oneta"}],"id":"33","nombre":"Asturias"}],"idLocation":"63","id":"ast","nombre":"Principado de Asturias"},{"provincias":[{"idLocation":"7330","idccaa":"mur","estaciones":[{"id":"7250C","nombre":"Abanilla"},{"id":"7002Y","nombre":"Águilas"},{"id":"7227X","nombre":"Alhama de Murcia"},{"id":"7158X","nombre":"Archena"},{"id":"7127X","nombre":"Bullas"},{"id":"7121A","nombre":"Calasparra"},{"id":"7119B","nombre":"Caravaca de La Cruz"},{"id":"7195X","nombre":"Caravaca de La Cruz, Los Royos"},{"id":"7012X","nombre":"Cartagena"},{"id":"7012D","nombre":"Cartagena, Tentegorra"},{"id":"7019X","nombre":"Cartagena\/Salinas Cabo Palos"},{"id":"7145X","nombre":"Cieza"},{"id":"7023X","nombre":"Fuente Álamo de Murcia"},{"id":"7138B","nombre":"Jumilla"},{"id":"7209","nombre":"Lorca"},{"id":"7203A","nombre":"Lorca, Zarcilla de Ramos"},{"id":"7007Y","nombre":"Mazarrón"},{"id":"7237E","nombre":"Molina de Segura"},{"id":"7080X","nombre":"Moratalla"},{"id":"7168X","nombre":"Mula"},{"id":"7178I","nombre":"Murcia"},{"id":"7211B","nombre":"Puerto Lumbreras"},{"id":"7031X","nombre":"San Javier Aeropuerto"},{"id":"7026X","nombre":"Torre-Pacheco"},{"id":"7218Y","nombre":"Totana"},{"id":"7275C","nombre":"Yecla"}],"id":"30","nombre":"Murcia"}],"idLocation":"73","id":"mur","nombre":"Región de Murcia"}];	
+	var ambitos = [
+	    {
+	        id:'PB', 
+	        nombre: 'Península y Baleares',
+	        zoom: 6
+	    }, 
+	    {
+	    	id:'CAN', 
+	        nombre: 'Canarias',
+	        zoom: 7
+	    }, 
+	   	{
+	        id:'CEU', 
+	        nombre: 'Ceuta',
+	        zoom: 8
+	    },{
+	        id:'MEL', 
+	        nombre: 'Melilla',
+	        zoom: 8
+	    }
+	];
+	
+	var parametros = [ {
+		id : 'tmax',
+		name : 'Temperatura máxima (&#176;C)'
+	}, {
+		id : 'tmin',
+		name : 'Temperatura mínima (&#176;C)'
+	}, {
+		id : 'tmed',
+		name : 'Temperatura media (&#176;C)'
+	}, {
+		id : 'vmax',
+		name : 'Velocidad máxima (km/h)'
+	}, {
+		id : 'racha',
+		name : 'Racha (km/h)'
+	}, {
+		id : 'pre-0024',
+		name : 'Precipitación 00-24h (mm)'
+	}, {
+		id : 'pre6',
+		name : 'Precipitación en seis horas (mm)'
+	}];
+	
+	var estaciones = [
+		
+			{id: "1069Y", nombre: "Abadiño, Urkiola"},
+			{id: "7250C", nombre: "Abanilla"},
+			{id: "4210Y", nombre: "Abenójar"},
+			{id: "4070Y", nombre: "Abia de Obispalia"},
+			{id: "6302A", nombre: "Abla"},
+			{id: "6302X", nombre: "ABLA"},
+			{id: "1719", nombre: "A Cañiza"},
+			{id: "1387", nombre: "A Coruña"},
+			{id: "1387E", nombre: "A Coruña Aeropuerto"},
+			{id: "1387D", nombre: "A Coruña Bens"},
+			{id: "C419X", nombre: "Adeje"},
+			{id: "8381X", nombre: "Ademuz"},
+			{id: "6277C", nombre: "Adra"},
+			{id: "1468X", nombre: "A Estrada"},
+			{id: "C619X", nombre: "Agaete"},
+			{id: "C668V", nombre: "Agaete - Suerte Alta"},
+			{id: "2969U", nombre: "A Gudiña"},
+			{id: "2243A", nombre: "Aguilar de Campoo"},
+			{id: "5624X", nombre: "Aguilar de la Frontera"},
+			{id: "7002Y", nombre: "Águilas"},
+			{id: "C648C", nombre: "Agüimes"},
+			{id: "C317B", nombre: "Agulo"},
+			{id: "9073X", nombre: "Agurain/Salvatierra, Opakua"},
+			{id: "9808X", nombre: "Aínsa-Sobrarbe, La Serreta"},
+			{id: "8025", nombre: "Alacant/Alicante"},
+			{id: "4560Y", nombre: "Alajar"},
+			{id: "1489A", nombre: "A Lama"},
+			{id: "8178D", nombre: "Albacete"},
+			{id: "8175", nombre: "Albacete Base Aérea"},
+			{id: "8354X", nombre: "Albarracín"},
+			{id: "4089A", nombre: "Alberca de Zancara"},
+			{id: "6364X", nombre: "Albox"},
+			{id: "4464X", nombre: "Alburquerque"},
+			{id: "3170Y", nombre: "Alcala de Henares"},
+			{id: "8191Y", nombre: "Alcalá del Júcar"},
+			{id: "5406X", nombre: "Alcalá La Real"},
+			{id: "7228", nombre: "Alcantarilla, Base Aérea"},
+			{id: "2966D", nombre: "Alcañices"},
+			{id: "9573X", nombre: "Alcañiz"},
+			{id: "4051Y", nombre: "Alcázar del Rey"},
+			{id: "4064Y", nombre: "Alcazar de San Juan"},
+			{id: "8059C", nombre: "Alcoi/Alcoy"},
+			{id: "4489X", nombre: "Alconchel"},
+			{id: "4195E", nombre: "Alcornoquera, Parque Nacional Cabañeros"},
+			{id: "4411C", nombre: "Alcuescar"},
+			{id: "2140A", nombre: "Aldeanueva de Serrezuela"},
+			{id: "9293X", nombre: "Alfaro, La Plana"},
+			{id: "0009X", nombre: "Alforja"},
+			{id: "6201X", nombre: "Algarrobo"},
+			{id: "9354X", nombre: "Alhama de Aragon"},
+			{id: "7227X", nombre: "Alhama de Murcia"},
+			{id: "8019", nombre: "Alicante-Elche Aeropuerto"},
+			{id: "3562X", nombre: "Aliseda"},
+			{id: "1706A", nombre: "Allariz"},
+			{id: "1226X", nombre: "Aller, Felechosa"},
+			{id: "4300Y", nombre: "Almadén"},
+			{id: "5733X", nombre: "Almadén de la Plata"},
+			{id: "8198Y", nombre: "Almansa"},
+			{id: "9352A", nombre: "Almazul"},
+			{id: "4436Y", nombre: "Almendralejo"},
+			{id: "6297", nombre: "Almería"},
+			{id: "6325O", nombre: "Almería Aeropuerto"},
+			{id: "5858X", nombre: "Almonte"},
+			{id: "9491X", nombre: "Almudévar"},
+			{id: "6127X", nombre: "Álora"},
+			{id: "4589X", nombre: "Alosno, Tharsis"},
+			{id: "6045X", nombre: "Alpandeire"},
+			{id: "3268C", nombre: "Alpedrete"},
+			{id: "9001S", nombre: "Alto Campoo"},
+			{id: "1186P", nombre: "Amieva, Panizales"},
+			{id: "1074C", nombre: "Amorebieta-Etxano"},
+			{id: "1060X", nombre: "Amurrio"},
+			{id: "C449F", nombre: "Anaga"},
+			{id: "9550C", nombre: "Andorra, Horcallana"},
+			{id: "B103B", nombre: "Andratx - Sant Elm"},
+			{id: "5298X", nombre: "Andújar"},
+			{id: "9136X", nombre: "Anguiano, Valvanera"},
+			{id: "C248E", nombre: "Antigua"},
+			{id: "1631E", nombre: "A Pobra de Trives"},
+			{id: "9208E", nombre: "Aragüés del Puerto"},
+			{id: "1044X", nombre: "Aramaio, Etxaguen"},
+			{id: "2117D", nombre: "Aranda de Duero"},
+			{id: "9263X", nombre: "Aranguren, Ilundain"},
+			{id: "3100B", nombre: "Aranjuez"},
+			{id: "7158X", nombre: "Archena"},
+			{id: "9344C", nombre: "Arcos de Jalón"},
+			{id: "0252D", nombre: "Arenys de Mar"},
+			{id: "1033X", nombre: "Areso"},
+			{id: "1048X", nombre: "Aretxabaleta"},
+			{id: "2456B", nombre: "Arevalo"},
+			{id: "3182Y", nombre: "Arganda del Rey"},
+			{id: "C428T", nombre: "Arico"},
+			{id: "4527X", nombre: "Aroche"},
+			{id: "C029R", nombre: "Arrecife"},
+			{id: "5181D", nombre: "Arroyo del Ojanco"},
+			{id: "B526X", nombre: "Artà"},
+			{id: "B603X", nombre: "Artà-Colònia de Sant Pere"},
+			{id: "9650X", nombre: "Artesa de Segre"},
+			{id: "C669B", nombre: "Arucas"},
+			{id: "C316I", nombre: "Arure"},
+			{id: "1363X", nombre: "As Pontes"},
+			{id: "2734D", nombre: "Astorga"},
+			{id: "9195C", nombre: "Astún, La Raca"},
+			{id: "1212E", nombre: "Asturias Aeropuerto"},
+			{id: "8492X", nombre: "Atzeneta del Maestrat"},
+			{id: "2400E", nombre: "Autilla del Pino"},
+			{id: "2444", nombre: "Ávila"},
+			{id: "2444C", nombre: "Ávila, Ayuntamiento"},
+			{id: "4549Y", nombre: "Ayamonte"},
+			{id: "1038X", nombre: "Azpeitia"},
+			{id: "5473X", nombre: "Azuaga"},
+			{id: "4478X", nombre: "Badajoz"},
+			{id: "4452", nombre: "Badajoz Aeropuerto"},
+			{id: "5164B", nombre: "Baeza"},
+			{id: "5281X", nombre: "Bailén"},
+			{id: "9211F", nombre: "Bailo, Puyalto"},
+			{id: "9911X", nombre: "Ballobar"},
+			{id: "1078C", nombre: "Balmaseda"},
+			{id: "0106X", nombre: "Balsareny"},
+			{id: "B087X", nombre: "Banyalbufar"},
+			{id: "2926B", nombre: "Bañobárez"},
+			{id: "2873X", nombre: "Barbadillo"},
+			{id: "9866C", nombre: "Barbastro"},
+			{id: "5996B", nombre: "Barbate"},
+			{id: "4492F", nombre: "Barcarrota"},
+			{id: "0201X", nombre: "Barcelona, Drassanes"},
+			{id: "0200E", nombre: "Barcelona, Fabra"},
+			{id: "0201D", nombre: "Barcelona, Port Olímpic"},
+			{id: "0076", nombre: "Barcelona Aeropuerto"},
+			{id: "1096X", nombre: "Barcena de Cicero, Treto"},
+			{id: "2828Y", nombre: "Barco de Avila"},
+			{id: "9294E", nombre: "Bardenas Reales, Base Aérea"},
+			{id: "2701D", nombre: "Barrios de Luna, Miñera"},
+			{id: "8072Y", nombre: "Barx"},
+			{id: "5047E", nombre: "Baza"},
+			{id: "1002Y", nombre: "Baztan, Irurita"},
+			{id: "1696O", nombre: "Beariz"},
+			{id: "1025X", nombre: "Beasain, Arriaran"},
+			{id: "1521X", nombre: "Becerreá"},
+			{id: "8433X", nombre: "Bejís"},
+			{id: "9998X", nombre: "Bello"},
+			{id: "4095Y", nombre: "Belmonte"},
+			{id: "9111", nombre: "Belorado"},
+			{id: "9756X", nombre: "Benabarre"},
+			{id: "6069X", nombre: "Benahavís"},
+			{id: "5598X", nombre: "Benamejí"},
+			{id: "9838B", nombre: "Benasque"},
+			{id: "2755X", nombre: "Benavente"},
+			{id: "8036Y", nombre: "Benidorm"},
+			{id: "1010X", nombre: "Bera"},
+			{id: "0092X", nombre: "Berga"},
+			{id: "3040Y", nombre: "Beteta"},
+			{id: "8270X", nombre: "Bicorp"},
+			{id: "9784P", nombre: "Bielsa"},
+			{id: "9882X", nombre: "Bierge, Yaso"},
+			{id: "9453X", nombre: "Biescas, Embalse de Búbal"},
+			{id: "1082", nombre: "Bilbao Aeropuerto"},
+			{id: "B662X", nombre: "Binissalem"},
+			{id: "0281Y", nombre: "Blanes"},
+			{id: "2914C", nombre: "Boadilla Fuente San Esteban"},
+			{id: "1442U", nombre: "Boiro"},
+			{id: "9311X", nombre: "Borja, Los Llanos"},
+			{id: "9994X", nombre: "Bossòst"},
+			{id: "3209Y", nombre: "Brihuega"},
+			{id: "9031C", nombre: "Briviesca"},
+			{id: "3565X", nombre: "Brozas"},
+			{id: "3110C", nombre: "Buitrago del Lozoya"},
+			{id: "7127X", nombre: "Bullas"},
+			{id: "1347T", nombre: "Burela"},
+			{id: "2092", nombre: "Burgo de Osma"},
+			{id: "2331", nombre: "Burgos Aeropuerto"},
+			{id: "2742R", nombre: "Bustillo del Páramo"},
+			{id: "9961X", nombre: "Cabacés"},
+			{id: "1167H", nombre: "Cabaña Verónica, Parque Nacional Picos de Europa"},
+			{id: "1283U", nombre: "Cabo Busto"},
+			{id: "0433D", nombre: "Cabo de Creus"},
+			{id: "6329X", nombre: "Cabo de Gata"},
+			{id: "1210X", nombre: "Cabo Peñas"},
+			{id: "1393", nombre: "Cabo Vilán"},
+			{id: "1179B", nombre: "Cabrales"},
+			{id: "B398A", nombre: "Cabrera, Parque Nacional de Cabrera"},
+			{id: "3469A", nombre: "Cáceres"},
+			{id: "3469", nombre: "Cáceres, Ciudad"},
+			{id: "5973", nombre: "Cádiz"},
+			{id: "5769X", nombre: "Cala"},
+			{id: "9381I", nombre: "Calamocha"},
+			{id: "9381", nombre: "Calamocha, aeródromo"},
+			{id: "9569A", nombre: "Calanda"},
+			{id: "7121A", nombre: "Calasparra"},
+			{id: "9394X", nombre: "Calatayud"},
+			{id: "0222X", nombre: "Caldes de Montbui"},
+			{id: "B158X", nombre: "Calvià, Es Capdellà"},
+			{id: "1167B", nombre: "Camaleño, Fuente De"},
+			{id: "5103F", nombre: "Camarate, Parque Nacional Sierra Nevada"},
+			{id: "5103E", nombre: "Camarate 2, Parque Nacional Sierra Nevada"},
+			{id: "9178X", nombre: "Campezo/Kanpezu"},
+			{id: "3158D", nombre: "Campisábalos"},
+			{id: "B362X", nombre: "Campos, Can Sion"},
+			{id: "B373X", nombre: "Campos, Salines Llevant"},
+			{id: "C438N", nombre: "Candelaria"},
+			{id: "3422D", nombre: "Candeleda"},
+			{id: "9198X", nombre: "Canfranc-Estación"},
+			{id: "1263X", nombre: "Cangas del Narcea-San Pedru Culiema"},
+			{id: "4339X", nombre: "Cañamero"},
+			{id: "6248D", nombre: "Cañar, Parque Nacional Sierra Nevada"},
+			{id: "3475X", nombre: "Cañaveral"},
+			{id: "B569X", nombre: "Capdepera"},
+			{id: "9590D", nombre: "Cap de Rec"},
+			{id: "9988B", nombre: "Cap de Vaquèira"},
+			{id: "9855E", nombre: "Capella, Laguarres"},
+			{id: "7119B", nombre: "Caravaca de La Cruz"},
+			{id: "7195X", nombre: "Caravaca de La Cruz, Los Royos"},
+			{id: "1390X", nombre: "Carballo, Depuradora"},
+			{id: "6332Y", nombre: "Carboneras"},
+			{id: "8300X", nombre: "Carcaixent"},
+			{id: "5346X", nombre: "Cardeña"},
+			{id: "5702X", nombre: "Carmona"},
+			{id: "5835X", nombre: "Carrión de los Céspedes"},
+			{id: "2374X", nombre: "Carrión de los Condes"},
+			{id: "7012X", nombre: "Cartagena"},
+			{id: "7012C", nombre: "Cartagena"},
+			{id: "7012D", nombre: "Cartagena, Tentegorra"},
+			{id: "7019X", nombre: "Cartagena/Salinas Cabo Palos"},
+			{id: "4554X", nombre: "Cartaya"},
+			{id: "9245X", nombre: "Cáseda"},
+			{id: "9574B", nombre: "Caspe, Plana del Pilón"},
+			{id: "9336D", nombre: "Castejon de Valdejasa"},
+			{id: "0284X", nombre: "Castell d'Aro"},
+			{id: "6272X", nombre: "Castell de Ferro"},
+			{id: "9563X", nombre: "Castellfort"},
+			{id: "8500A", nombre: "Castelló - Almassora"},
+			{id: "0411X", nombre: "Castelló d'Empúries"},
+			{id: "8501", nombre: "Castelló de la Plana"},
+			{id: "9561X", nombre: "Castellote"},
+			{id: "3362Y", nombre: "Castillo de Bayuela"},
+			{id: "1331A", nombre: "Castropol"},
+			{id: "1083L", nombre: "Castro Urdiales"},
+			{id: "4325Y", nombre: "Castuera"},
+			{id: "5704B", nombre: "Cazalla de la Sierra"},
+			{id: "5038Y", nombre: "Cazorla"},
+			{id: "3337U", nombre: "Cebreros"},
+			{id: "8458X", nombre: "Cedrillas"},
+			{id: "9145Y", nombre: "Cenicero"},
+			{id: "9839V", nombre: "Cerler, Cogulla"},
+			{id: "1297E", nombre: "Cervantes"},
+			{id: "2235U", nombre: "Cervera de Pisuerga"},
+			{id: "5000D", nombre: "Ceuta"},
+			{id: "5000C", nombre: "Ceuta"},
+			{id: "5000A", nombre: "Ceuta, Monte Hacho"},
+			{id: "1639X", nombre: "Chandrexa de Queixa"},
+			{id: "8395X", nombre: "Chelva"},
+			{id: "8177A", nombre: "Chinchilla"},
+			{id: "5906X", nombre: "Chipiona"},
+			{id: "7145X", nombre: "Cieza"},
+			{id: "1174I", nombre: "Cillorigo de Liébana, Tama"},
+			{id: "4121", nombre: "Ciudad Real"},
+			{id: "4121C", nombre: "Ciudad Real, Instituto"},
+			{id: "B860X", nombre: "Ciutadella"},
+			{id: "B870C", nombre: "Ciutadella, Cala Galdana"},
+			{id: "6143X", nombre: "Coín"},
+			{id: "9638D", nombre: "Coll de Nargó"},
+			{id: "3191E", nombre: "Colmenar Viejo"},
+			{id: "1204X", nombre: "Colunga-Lluces-Aspo"},
+			{id: "0194D", nombre: "Corbera, Puig d'Agulles"},
+			{id: "1178E", nombre: "Cordiñanes de Valdeón, Parque Nacional Picos de Europa"},
+			{id: "5394X", nombre: "Córdoba, Embalse de Guadanuño"},
+			{id: "5429X", nombre: "Córdoba, Prágdena"},
+			{id: "5402", nombre: "Córdoba Aeropuerto"},
+			{id: "2565", nombre: "Coreses"},
+			{id: "3526X", nombre: "Coria"},
+			{id: "1167J", nombre: "Coriscao, Parque Nacional Picos de Europa"},
+			{id: "6040X", nombre: "Cortes de la Frontera"},
+			{id: "2106B", nombre: "Coruña del Conde"},
+			{id: "2626Y", nombre: "Cubillas de Rueda"},
+			{id: "2192C", nombre: "Cuéllar"},
+			{id: "8096", nombre: "Cuenca"},
+			{id: "9390", nombre: "Daroca"},
+			{id: "1302F", nombre: "Degaña"},
+			{id: "5107D", nombre: "Dólar"},
+			{id: "4358X", nombre: "Don Benito"},
+			{id: "1024E", nombre: "Donostia / San Sebastián, Igeldo"},
+			{id: "1014A", nombre: "Donostia / San Sebastián Aeropuerto"},
+			{id: "5427X", nombre: "Doña Mencía"},
+			{id: "5641X", nombre: "Écija"},
+			{id: "B957", nombre: "Eivissa"},
+			{id: "9321Y", nombre: "Ejea de los Caballeros, Eras Altas"},
+			{id: "2945A", nombre: "El Bodón Base Aérea"},
+			{id: "5941X", nombre: "El Bosque"},
+			{id: "4608X", nombre: "El Campillo"},
+			{id: "4584X", nombre: "El Cerro de Andévalo"},
+			{id: "6291B", nombre: "El Ejido"},
+			{id: "1049N", nombre: "Elgeta"},
+			{id: "1050J", nombre: "Elgoibar"},
+			{id: "4541X", nombre: "El Granado"},
+			{id: "2918Y", nombre: "El Maíllo"},
+			{id: "C126A", nombre: "El Paso"},
+			{id: "9377Y", nombre: "El Pedregal"},
+			{id: "C916Q", nombre: "El Pinar, Depósito"},
+			{id: "C917E", nombre: "El Pinar, La Dehesa"},
+			{id: "7247X", nombre: "el Pinós/Pinoso"},
+			{id: "0433X", nombre: "El Port de la Selva"},
+			{id: "4193Y", nombre: "El Robledo"},
+			{id: "9775X", nombre: "El Soleràs"},
+			{id: "9776D", nombre: "Els Torms"},
+			{id: "8018X", nombre: "Elx/Elche"},
+			{id: "9188", nombre: "Enciso"},
+			{id: "1021X", nombre: "Errenteria, Añarbe"},
+			{id: "B013X", nombre: "Escorca, Lluc"},
+			{id: "B684A", nombre: "Escorca, Son Torrella"},
+			{id: "1486E", nombre: "Escuela Naval de Marín"},
+			{id: "B825B", nombre: "Es Mercadal"},
+			{id: "5459X", nombre: "Espiel"},
+			{id: "0421X", nombre: "Espolla"},
+			{id: "1351", nombre: "Estaca de Bares"},
+			{id: "9981A", nombre: "Estación de Tortosa (Roquetes)"},
+			{id: "6058I", nombre: "Estepona"},
+			{id: "9257X", nombre: "Esteribar, Embalse de Eugi"},
+			{id: "9657X", nombre: "Esterri d'Àneu"},
+			{id: "0429X", nombre: "Figueres"},
+			{id: "1400", nombre: "Fisterra"},
+			{id: "0260X", nombre: "Fogars de Montclús"},
+			{id: "1658", nombre: "Folgoso do Courel"},
+			{id: "9436X", nombre: "Fonfría"},
+			{id: "8005X", nombre: "Fontanars dels Alforins"},
+			{id: "B986", nombre: "Formentera"},
+			{id: "9445L", nombre: "Formigal, Sarrios"},
+			{id: "9091O", nombre: "Foronda-Txokiza"},
+			{id: "1056K", nombre: "Forua"},
+			{id: "9924X", nombre: "Fraga"},
+			{id: "4520X", nombre: "Fregenal de la Sierra"},
+			{id: "2135A", nombre: "Fresno de Cantespino"},
+			{id: "2885K", nombre: "Fresno de Sayago"},
+			{id: "C939T", nombre: "Frontera, Sabinosa"},
+			{id: "C129V", nombre: "Fuencaliente"},
+			{id: "5341C", nombre: "Fuencaliente"},
+			{id: "6084X", nombre: "Fuengirola"},
+			{id: "7023X", nombre: "Fuente Álamo de Murcia"},
+			{id: "4501X", nombre: "Fuente de Cantos"},
+			{id: "6375X", nombre: "Fuente de Piedra"},
+			{id: "2517A", nombre: "Fuente el Sol"},
+			{id: "5470", nombre: "Fuente Palmera"},
+			{id: "2555B", nombre: "Fuentesauco"},
+			{id: "5656", nombre: "Fuentes de Andalucía"},
+			{id: "C249I", nombre: "Fuerteventura Aeropuerto"},
+			{id: "C469E", nombre: "Garachico - La Quinta"},
+			{id: "3436D", nombre: "Garganta la Olla"},
+			{id: "6340X", nombre: "Garrucha"},
+			{id: "6050X", nombre: "Gaucín"},
+			{id: "3200", nombre: "Getafe"},
+			{id: "1208", nombre: "Gijón"},
+			{id: "1207U", nombre: "Gijón, Campus"},
+			{id: "1208H", nombre: "Gijón, Puerto"},
+			{id: "1208A", nombre: "Gijón. La Merced"},
+			{id: "0370E", nombre: "Girona"},
+			{id: "0370B", nombre: "Girona, Antic Institut"},
+			{id: "0367", nombre: "Girona Aeropuerto"},
+			{id: "2453E", nombre: "Gotarrendura"},
+			{id: "5530E", nombre: "Granada Aeropuerto"},
+			{id: "5514Z", nombre: "Granada Base Aérea"},
+			{id: "5514", nombre: "Granada Base Aérea"},
+			{id: "5515X", nombre: "Granada-Cartuja"},
+			{id: "C649I", nombre: "Gran Canaria Aeropuerto"},
+			{id: "5911X", nombre: "Grazalema"},
+			{id: "3168D", nombre: "Guadalajara"},
+			{id: "3168A", nombre: "Guadalajara, Instituto"},
+			{id: "5726X", nombre: "Guadalcanal"},
+			{id: "4245X", nombre: "Guadalupe"},
+			{id: "5112X", nombre: "Guadix"},
+			{id: "1078I", nombre: "Güeñes"},
+			{id: "3503", nombre: "Guijo de Granadilla"},
+			{id: "C439J", nombre: "Güímar"},
+			{id: "C038N", nombre: "Haría"},
+			{id: "9121X", nombre: "Haro"},
+			{id: "7096B", nombre: "Hellín"},
+			{id: "C328W", nombre: "Hermigua"},
+			{id: "4244X", nombre: "Herrera del Duque"},
+			{id: "3504X", nombre: "Hervás"},
+			{id: "C929I", nombre: "Hierro Aeropuerto"},
+			{id: "9546B", nombre: "Hijar"},
+			{id: "4267X", nombre: "Hinojosa del Duque"},
+			{id: "1014", nombre: "Hondarribia, Malkarroa"},
+			{id: "9946X", nombre: "Horta de Sant Joan"},
+			{id: "3536X", nombre: "Hoyos"},
+			{id: "4605", nombre: "Huelva"},
+			{id: "4642E", nombre: "Huelva, Ronda Este"},
+			{id: "6367X", nombre: "Huércal-Overa"},
+			{id: "9901X", nombre: "Huesca"},
+			{id: "9898", nombre: "Huesca, Aeropuerto"},
+			{id: "5051X", nombre: "Huéscar"},
+			{id: "1309C", nombre: "Ibias, San Antolin"},
+			{id: "B954", nombre: "Ibiza, Aeropuerto"},
+			{id: "1024X", nombre: "Igeldo"},
+			{id: "0171F", nombre: "Igualada"},
+			{id: "1012P", nombre: "Irun"},
+			{id: "9274X", nombre: "Irurtzun"},
+			{id: "9218A", nombre: "Isaba/Izaba"},
+			{id: "C430E", nombre: "Izaña"},
+			{id: "8376", nombre: "Jabaloyas"},
+			{id: "9201X", nombre: "Jaca"},
+			{id: "5270B", nombre: "Jaén"},
+			{id: "5270", nombre: "Jaén, Instituto"},
+			{id: "8193E", nombre: "Jalance"},
+			{id: "3455X", nombre: "Jaraicejo"},
+			{id: "8050X", nombre: "Jávea/ Xàbia"},
+			{id: "5960", nombre: "Jerez de la Frontera Aeropuerto"},
+			{id: "4511C", nombre: "Jerez de los Caballeros"},
+			{id: "6042I", nombre: "Jimena de la Frontera"},
+			{id: "7138B", nombre: "Jumilla"},
+			{id: "0385X", nombre: "L'Estartit"},
+			{id: "C619Y", nombre: "La Aldea de San Nicolás"},
+			{id: "C628B", nombre: "La Aldea de San Nicolás, Tasarte"},
+			{id: "9427X", nombre: "La Almunia de Doña Godina"},
+			{id: "9122I", nombre: "Labastida"},
+			{id: "2491C", nombre: "La Covatilla, estación de esquí"},
+			{id: "C329B", nombre: "La Gomera, Aeropuerto"},
+			{id: "C839X", nombre: "La Graciosa"},
+			{id: "2737E", nombre: "Lagunas de Somoza"},
+			{id: "6299I", nombre: "Laguna Seca, Parque Nacional Sierra Nevada"},
+			{id: "9060X", nombre: "Lalastra"},
+			{id: "B800X", nombre: "La Mola, Maó"},
+			{id: "9585", nombre: "La Molina"},
+			{id: "9908X", nombre: "Lanaja"},
+			{id: "6258X", nombre: "Lanjarón"},
+			{id: "C029O", nombre: "Lanzarote Aeropuerto"},
+			{id: "C258K", nombre: "La Oliva"},
+			{id: "C259X", nombre: "La Oliva, Puerto de Corralejo"},
+			{id: "C406G", nombre: "La Orotava, Cañadas Teide"},
+			{id: "C139E", nombre: "La Palma Aeropuerto"},
+			{id: "2150H", nombre: "La Pinilla, estación de esquí"},
+			{id: "8520X", nombre: "La Pobla de Benifassà-Fredes"},
+			{id: "9772X", nombre: "La Pobla de Cérvoles"},
+			{id: "9947X", nombre: "La Pobla de Massaluca"},
+			{id: "2017Y", nombre: "La Póveda de Soria, Barriomartín"},
+			{id: "5654X", nombre: "La Puebla de los Infantes"},
+			{id: "5625X", nombre: "La Rambla"},
+			{id: "2059B", nombre: "La Riba de Escalote"},
+			{id: "5612B", nombre: "La Roda de Andalucía"},
+			{id: "9280B", nombre: "Larraga"},
+			{id: "5891X", nombre: "Las Cabezas de San Juan"},
+			{id: "9622X", nombre: "La Seu d'Urgell, Aeroport"},
+			{id: "C129X", nombre: "LAS MANCHAS"},
+			{id: "C659M", nombre: "Las Palmas de Gran Canaria, Pl. de la Feria"},
+			{id: "C658X", nombre: "Las Palmas de Gran Canaria, Tafira"},
+			{id: "6307C", nombre: "Laújar, Parque Nacional Sierra Nevada"},
+			{id: "6307X", nombre: "Láujar de Andarax"},
+			{id: "0394X", nombre: "La Vall de Bianya"},
+			{id: "C457I", nombre: "La Victoria de Acentejo"},
+			{id: "9495Y", nombre: "Leciñena"},
+			{id: "1037X", nombre: "Legazpi"},
+			{id: "1223P", nombre: "Lena, Ronzón"},
+			{id: "2661", nombre: "León, Virgen del Camino"},
+			{id: "0360X", nombre: "Les Planes d'Hostoles"},
+			{id: "9145X", nombre: "Leza"},
+			{id: "2096B", nombre: "Liceras"},
+			{id: "5279X", nombre: "Linares"},
+			{id: "1183X", nombre: "Llanes"},
+			{id: "9771C", nombre: "Lleida"},
+			{id: "9771", nombre: "Lleida, Observatorio"},
+			{id: "4386B", nombre: "Llerena"},
+			{id: "9707", nombre: "Llimiana"},
+			{id: "8409X", nombre: "Llíria"},
+			{id: "9726E", nombre: "Llorac"},
+			{id: "B334X", nombre: "Llucmajor"},
+			{id: "B301", nombre: "Llucmajor, radar"},
+			{id: "9170", nombre: "Logroño, Aeropuerto"},
+			{id: "5582A", nombre: "Loja"},
+			{id: "5612X", nombre: "Lora de Estepa"},
+			{id: "7209", nombre: "Lorca"},
+			{id: "7203A", nombre: "Lorca, Zarcilla de Ramos"},
+			{id: "9171K", nombre: "Los Arcos"},
+			{id: "1135C", nombre: "Los Tojos, Bárcena Mayor"},
+			{id: "2044B", nombre: "Lubia"},
+			{id: "1518A", nombre: "Lugo"},
+			{id: "1505", nombre: "Lugo Aeropuerto"},
+			{id: "0413A", nombre: "Maçanet de Cabrenys"},
+			{id: "3129A", nombre: "Madrid, Barajas Radio Sondeos"},
+			{id: "3194U", nombre: "Madrid, Ciudad Universitaria"},
+			{id: "3196", nombre: "Madrid, Cuatro Vientos"},
+			{id: "3126Y", nombre: "Madrid, El Goloso"},
+			{id: "3195", nombre: "Madrid, Retiro"},
+			{id: "3129", nombre: "Madrid Aeropuerto"},
+			{id: "4067", nombre: "Madridejos"},
+			{id: "3423I", nombre: "Madrigal de la Vera"},
+			{id: "6172X", nombre: "Málaga"},
+			{id: "6172Y", nombre: "Málaga"},
+			{id: "6156X", nombre: "Málaga, Centro Meteorológico"},
+			{id: "6172O", nombre: "Málaga, Puerto"},
+			{id: "6155A", nombre: "Málaga Aeropuerto"},
+			{id: "B614E", nombre: "Manacor"},
+			{id: "3140Y", nombre: "Mandayona"},
+			{id: "6057X", nombre: "Manilva"},
+			{id: "0149X", nombre: "Manresa"},
+			{id: "6083X", nombre: "Marbella"},
+			{id: "6076X", nombre: "Marbella, Puerto"},
+			{id: "9590", nombre: "Martinet"},
+			{id: "C689E", nombre: "Maspalomas"},
+			{id: "C639M", nombre: "Maspalomas, C. Insular Turismo"},
+			{id: "1057B", nombre: "Matxitxako"},
+			{id: "1406X", nombre: "Mazaricos"},
+			{id: "7007Y", nombre: "Mazarrón"},
+			{id: "9051", nombre: "Medina de Pomar"},
+			{id: "2604B", nombre: "Medina de Rioseco"},
+			{id: "5983X", nombre: "Medina Sidonia"},
+			{id: "6000A", nombre: "Melilla"},
+			{id: "B893", nombre: "Menorca, Aeropuerto"},
+			{id: "4410X", nombre: "Mérida"},
+			{id: "1234P", nombre: "Mieres, Baiña"},
+			{id: "2482B", nombre: "Miguelañez"},
+			{id: "8245Y", nombre: "Mira"},
+			{id: "1167G", nombre: "Mirador del Cable, Parque Nacional Picos de Europa"},
+			{id: "8058Y", nombre: "Miramar"},
+			{id: "9069C", nombre: "Miranda de Ebro"},
+			{id: "C629X", nombre: "Mogán, Puerto"},
+			{id: "C629Q", nombre: "Mogán, Puerto Rico"},
+			{id: "5860E", nombre: "Moguer, El Arenosillo"},
+			{id: "0120X", nombre: "Moià"},
+			{id: "3013", nombre: "Molina de Aragón"},
+			{id: "7237E", nombre: "Molina de Segura"},
+			{id: "9729X", nombre: "Mollerussa"},
+			{id: "1344X", nombre: "Mondoñedo"},
+			{id: "4499X", nombre: "Monesterio"},
+			{id: "1679A", nombre: "Monforte de Lemos"},
+			{id: "0158X", nombre: "Monistrol de Montserrat"},
+			{id: "9262P", nombre: "Monreal/Elo"},
+			{id: "9531Y", nombre: "Montalbán"},
+			{id: "8472A", nombre: "Montanejos"},
+			{id: "9301X", nombre: "Monteagudo"},
+			{id: "3512X", nombre: "Montehermoso"},
+			{id: "1437P", nombre: "Monte Iroite"},
+			{id: "1446X", nombre: "Monterroso"},
+			{id: "2302N", nombre: "Monterrubio de la Demanda"},
+			{id: "5361X", nombre: "Montoro"},
+			{id: "3254Y", nombre: "Mora"},
+			{id: "2536D", nombre: "Morales del Toro"},
+			{id: "7080X", nombre: "Moratalla"},
+			{id: "9562X", nombre: "Morella"},
+			{id: "2048A", nombre: "Morón de Almazán"},
+			{id: "5796", nombre: "Morón de la Frontera"},
+			{id: "8486X", nombre: "Mosqueruela"},
+			{id: "8155Y", nombre: "Motilla del Palancar"},
+			{id: "6268Y", nombre: "Motril, Puerto"},
+			{id: "1738U", nombre: "Muiños"},
+			{id: "7168X", nombre: "Mula"},
+			{id: "4096Y", nombre: "Munera"},
+			{id: "9513X", nombre: "Muniesa"},
+			{id: "2430Y", nombre: "Muñotello"},
+			{id: "7178I", nombre: "Murcia"},
+			{id: "B605X", nombre: "Muro, S'Albufera"},
+			{id: "1052A", nombre: "Mutriku"},
+			{id: "6335O", nombre: "Nacimiento, Parque Nacional Sierra Nevada"},
+			{id: "9141V", nombre: "Nájera"},
+			{id: "9990X", nombre: "Naut Aran, Arties"},
+			{id: "3305Y", nombre: "Navahermosa"},
+			{id: "3434X", nombre: "Navalmoral de la Mata"},
+			{id: "3386A", nombre: "Navalvillar de Ibor"},
+			{id: "4340", nombre: "Navalvillar de Pela"},
+			{id: "2811A", nombre: "Navarredonda de Gredos"},
+			{id: "9238X", nombre: "Navascués/Nabaskoze"},
+			{id: "2930Y", nombre: "Navasfrías"},
+			{id: "6213X", nombre: "Nerja"},
+			{id: "7067Y", nombre: "Nerpio"},
+			{id: "1183J", nombre: "Niembru-Llanes"},
+			{id: "1435C", nombre: "Noia"},
+			{id: "8013X", nombre: "Novelda"},
+			{id: "3494U", nombre: "Nuñomoral"},
+			{id: "1583X", nombre: "O Barco de Valdeorras"},
+			{id: "3099Y", nombre: "Ocaña"},
+			{id: "1700X", nombre: "O Carballiño"},
+			{id: "9252X", nombre: "Olite/Erriberri"},
+			{id: "8058X", nombre: "Oliva"},
+			{id: "4486X", nombre: "Olivenza"},
+			{id: "2503B", nombre: "Olmedo, Depósito de Agua"},
+			{id: "2296A", nombre: "Ólvega"},
+			{id: "5919X", nombre: "Olvera"},
+			{id: "8283X", nombre: "Ontinyent"},
+			{id: "1521I", nombre: "O Páramo"},
+			{id: "1026X", nombre: "Ordizia"},
+			{id: "7244X", nombre: "Orihuela"},
+			{id: "3427Y", nombre: "Oropesa"},
+			{id: "1730E", nombre: "O Rosal"},
+			{id: "9228J", nombre: "Oroz-Betelu/Orotz-Betelu"},
+			{id: "1064L", nombre: "Orozko, Ibarra"},
+			{id: "4093Y", nombre: "Osa de la Vega"},
+			{id: "1535I", nombre: "O Saviñao"},
+			{id: "9724X", nombre: "Os de Balaguer"},
+			{id: "4007Y", nombre: "Ossa de Montiel"},
+			{id: "5998X", nombre: "Osuna"},
+			{id: "1690A", nombre: "Ourense"},
+			{id: "1690B", nombre: "Ourense,Instituto"},
+			{id: "1249I", nombre: "Oviedo"},
+			{id: "1249X", nombre: "Oviedo"},
+			{id: "1473A", nombre: "Padrón"},
+			{id: "C229J", nombre: "Pájara"},
+			{id: "1221D", nombre: "Pajares-Valgrande"},
+			{id: "2298", nombre: "Palacios de la Sierra"},
+			{id: "2401X", nombre: "Palencia"},
+			{id: "2401", nombre: "Palencia, Observatorio"},
+			{id: "B228D", nombre: "Palma, Dic de l'Oest"},
+			{id: "B228", nombre: "Palma, Puerto"},
+			{id: "B236C", nombre: "Palma, Universitat"},
+			{id: "B278", nombre: "Palma de Mallorca, Aeropuerto"},
+			{id: "9262", nombre: "Pamplona"},
+			{id: "9263D", nombre: "Pamplona, Aeropuerto"},
+			{id: "3103", nombre: "Pantano el Vado"},
+			{id: "9451F", nombre: "Panticosa, Petrosos"},
+			{id: "9812M", nombre: "Parador de Ordesa, Parque Nacional Ordesa y Monteperdido"},
+			{id: "3085Y", nombre: "Pastrana"},
+			{id: "2182C", nombre: "Pedraza"},
+			{id: "2863C", nombre: "Pedraza de Alba"},
+			{id: "2290Y", nombre: "Pedrosa del Príncipe"},
+			{id: "2847X", nombre: "Pedrosillo de Los Aires"},
+			{id: "8057C", nombre: "Pego"},
+			{id: "2166Y", nombre: "Peñafiel"},
+			{id: "2882D", nombre: "Peñausende"},
+			{id: "4260", nombre: "Peraleda del Zaucejo"},
+			{id: "B640X", nombre: "Petra"},
+			{id: "1191D", nombre: "Pico Cotorra, Parque Nacional Picos de Europa"},
+			{id: "3394X", nombre: "Piedralaves"},
+			{id: "1199X", nombre: "Piloña, Bargaéu"},
+			{id: "3516X", nombre: "Piornal"},
+			{id: "0320I", nombre: "Planoles"},
+			{id: "3518X", nombre: "Plasencia"},
+			{id: "1276F", nombre: "Pola de Somiedo"},
+			{id: "9019X", nombre: "Polientes (Valderredible)"},
+			{id: "8325X", nombre: "Polinyà de Xúquer"},
+			{id: "B760X", nombre: "Pollença"},
+			{id: "1549", nombre: "Ponferrada"},
+			{id: "1723X", nombre: "Ponteareas, Canedo"},
+			{id: "1484C", nombre: "Pontevedra"},
+			{id: "1484", nombre: "Pontevedra, Instituto"},
+			{id: "0061X", nombre: "Pontons"},
+			{id: "0372C", nombre: "Porqueres"},
+			{id: "B341X", nombre: "Porreres"},
+			{id: "9677", nombre: "Port Ainé"},
+			{id: "B780X", nombre: "Port de Pollença"},
+			{id: "B434X", nombre: "Portocolom"},
+			{id: "1178Y", nombre: "Posada de Valdeón, Soto"},
+			{id: "3194Y", nombre: "Pozuelo de Alarcón"},
+			{id: "2789H", nombre: "Pozuelo de Tabara"},
+			{id: "5511", nombre: "Pradollano, Parque Nacional Sierra Nevada"},
+			{id: "0114X", nombre: "Prats de Lluçanès"},
+			{id: "5412X", nombre: "Priego de Córdoba"},
+			{id: "4220X", nombre: "Puebla de Don Rodrigo"},
+			{id: "4468X", nombre: "Puebla de Obando"},
+			{id: "3266A", nombre: "Puerto Alto del León"},
+			{id: "C459O", nombre: "Puerto de la Cruz-Paz Botánica"},
+			{id: "1542", nombre: "Puerto de Leitariegos"},
+			{id: "3319D", nombre: "Puerto del Pico"},
+			{id: "2462", nombre: "Puerto de Navacerrada"},
+			{id: "2630X", nombre: "Puerto de San Isidro"},
+			{id: "5304Y", nombre: "Puertollano"},
+			{id: "7211B", nombre: "Puerto Lumbreras"},
+			{id: "4236Y", nombre: "Puerto Rey"},
+			{id: "1059X", nombre: "Punta Galea"},
+			{id: "C117A", nombre: "Puntagorda"},
+			{id: "2728B", nombre: "Quintana del Castillo, Villameca"},
+			{id: "4061X", nombre: "Quintanar de la Orden"},
+			{id: "9510X", nombre: "Quinto"},
+			{id: "6312E", nombre: "Rágol, Parque Nacional Sierra Nevada"},
+			{id: "1089U", nombre: "Ramales de la Victoria"},
+			{id: "3104Y", nombre: "Rascafría"},
+			{id: "9975X", nombre: "Rasquera"},
+			{id: "9001D", nombre: "Reinosa"},
+			{id: "4362X", nombre: "Retamal de Llerena"},
+			{id: "0016A", nombre: "Reus Aeropuerto"},
+			{id: "2624C", nombre: "Riaño"},
+			{id: "1701X", nombre: "Ribadavia"},
+			{id: "1342X", nombre: "Ribadeo"},
+			{id: "6175X", nombre: "Rincón de la Victoria"},
+			{id: "0131X", nombre: "Riner"},
+			{id: "0324A", nombre: "Ripoll"},
+			{id: "2512Y", nombre: "Rivilla de Barajas"},
+			{id: "3338", nombre: "Robledo de Chavela"},
+			{id: "1476R", nombre: "Rois, Casas do Porto"},
+			{id: "7261X", nombre: "Rojales"},
+			{id: "9228T", nombre: "Roncesvalles/Orreaga"},
+			{id: "6032X", nombre: "Ronda Instituto"},
+			{id: "C101A", nombre: "Roque de los Muchachos"},
+			{id: "6293X", nombre: "Roquetas de Mar"},
+			{id: "5910", nombre: "Rota, Base Naval"},
+			{id: "5910X", nombre: "Rota, Base Naval"},
+			{id: "3330Y", nombre: "Rozas de Puerto Real"},
+			{id: "2507Y", nombre: "Rueda"},
+			{id: "9460X", nombre: "Sabiñánigo"},
+			{id: "2946X", nombre: "Saelices El Chico"},
+			{id: "8446Y", nombre: "Sagunt/Sagunto"},
+			{id: "2870X", nombre: "Salamanca"},
+			{id: "2870", nombre: "Salamanca"},
+			{id: "2871D", nombre: "Salamanca, Universidad"},
+			{id: "2867", nombre: "Salamanca Aeropuerto"},
+			{id: "1279X", nombre: "Salas, Camuño"},
+			{id: "6267X", nombre: "Salobreña"},
+			{id: "8210Y", nombre: "Salvacañete"},
+			{id: "2766E", nombre: "Sanabria, Robleda-Cervantes"},
+			{id: "C925F", nombre: "San Andrés, Valverde"},
+			{id: "C148F", nombre: "San Andrés y Sauces"},
+			{id: "C623I", nombre: "San Bartolome Tirajana, Cuevas del Pinar"},
+			{id: "C639U", nombre: "San Bartolome Tirajana, El Matorral"},
+			{id: "C635B", nombre: "San Bartolome Tirajana, Las Tirajanas"},
+			{id: "C625O", nombre: "San Bartolome Tirajana, Lomo Pedro Alfonso"},
+			{id: "4090Y", nombre: "San Clemente"},
+			{id: "C446G", nombre: "San Cristóbal de La Laguna,Llano de los Loros"},
+			{id: "3484X", nombre: "San Esteban de la Sierra"},
+			{id: "1152C", nombre: "San Felices de Buelna"},
+			{id: "5972Y", nombre: "San Fernando"},
+			{id: "7031", nombre: "San Javier Aeropuerto"},
+			{id: "7031X", nombre: "San Javier Aeropuerto"},
+			{id: "5950X", nombre: "San José del Valle"},
+			{id: "C468X", nombre: "San Juan de la Rambla"},
+			{id: "3298X", nombre: "San Pablo de los Montes"},
+			{id: "9287A", nombre: "San Pedro Manrique"},
+			{id: "2471Y", nombre: "San Rafael"},
+			{id: "6056X", nombre: "San Roque"},
+			{id: "1103X", nombre: "San Roque de Riomiera"},
+			{id: "C329Z", nombre: "San Sebastián de la Gomera"},
+			{id: "3125Y", nombre: "San Sebastián de Los Reyes"},
+			{id: "5246", nombre: "Santa Elena"},
+			{id: "9374X", nombre: "Santa Eulalia del Campo"},
+			{id: "9012E", nombre: "Santa Gadea de Alfoz"},
+			{id: "B656A", nombre: "Santa María del Camí"},
+			{id: "4442X", nombre: "Santa Marta"},
+			{id: "1111", nombre: "Santander"},
+			{id: "1111X", nombre: "Santander"},
+			{id: "1110", nombre: "Santander, ciudad"},
+			{id: "1109X", nombre: "Santander Aeropuerto"},
+			{id: "1109", nombre: "Santander Aeropuerto"},
+			{id: "B925", nombre: "Sant Antoni de Portmany"},
+			{id: "B410B", nombre: "Santanyí"},
+			{id: "2568D", nombre: "Santervás de la Vega, Villapún"},
+			{id: "0363X", nombre: "Sant Hilari"},
+			{id: "1475X", nombre: "Santiago de Compostela"},
+			{id: "1428", nombre: "Santiago de Compostela Aeropuerto"},
+			{id: "2777K", nombre: "Santibañez de Vidriales"},
+			{id: "1740", nombre: "Santillana del Mar, Altamira"},
+			{id: "9987P", nombre: "Sant Jaume d'Enveja"},
+			{id: "B908X", nombre: "Sant Joan de Labritja"},
+			{id: "0349", nombre: "Sant Julià  de Vilatorta"},
+			{id: "0312X", nombre: "Sant Pau de Segúries"},
+			{id: "1159", nombre: "San Vicente de la Barquera"},
+			{id: "B691Y", nombre: "Sa Pobla"},
+			{id: "2172Y", nombre: "Sardón de Duero"},
+			{id: "9027X", nombre: "Sargentes de la Lora"},
+			{id: "9894Y", nombre: "Sariñena"},
+			{id: "8439X", nombre: "Segorbe"},
+			{id: "2465", nombre: "Segovia"},
+			{id: "2465A", nombre: "Segovia, Instituto"},
+			{id: "1025A", nombre: "Segura"},
+			{id: "9843A", nombre: "Seira"},
+			{id: "3448X", nombre: "Serradilla"},
+			{id: "5790Y", nombre: "Sevilla, Tablada"},
+			{id: "5783", nombre: "Sevilla Aeropuerto"},
+			{id: "B248", nombre: "Sierra de Alfabia, Bunyola"},
+			{id: "5516D", nombre: "Sierra Nevada, Radiotelescopio"},
+			{id: "3130C", nombre: "Sigüenza"},
+			{id: "1466A", nombre: "Silleda"},
+			{id: "B644B", nombre: "Sineu"},
+			{id: "0073X", nombre: "Sitges"},
+			{id: "1410X", nombre: "Sobrado"},
+			{id: "8328X", nombre: "Sollana"},
+			{id: "B051A", nombre: "Sóller, Puerto"},
+			{id: "3111D", nombre: "Somosierra"},
+			{id: "B275E", nombre: "Son Bonet, Aeropuerto"},
+			{id: "B496X", nombre: "Son Servera"},
+			{id: "9751", nombre: "Sopeira"},
+			{id: "1083B", nombre: "Sopuerta"},
+			{id: "2030", nombre: "Soria"},
+			{id: "9244X", nombre: "Sos del Rey Católico"},
+			{id: "3391", nombre: "Sotillo de la Adrada"},
+			{id: "1178R", nombre: "Sotres, Parque Nacional Picos de Europa"},
+			{id: "C449C", nombre: "Sta.Cruz de Tenerife"},
+			{id: "C458A", nombre: "Tacoronte"},
+			{id: "9698U", nombre: "Talarn"},
+			{id: "3365A", nombre: "Talavera de la Reina"},
+			{id: "9918Y", nombre: "Tamarite de Litera, La Melusa"},
+			{id: "1341B", nombre: "Taramundi, Ouria"},
+			{id: "3094B", nombre: "Tarancón"},
+			{id: "9299X", nombre: "Tarazona"},
+			{id: "6001", nombre: "Tarifa"},
+			{id: "0042Y", nombre: "Tarragona"},
+			{id: "C129Z", nombre: "Tazacorte"},
+			{id: "C614H", nombre: "Tejeda"},
+			{id: "C612F", nombre: "Tejeda, Cruz de Tejeda"},
+			{id: "C648N", nombre: "Telde, Centro Forestal Doramas"},
+			{id: "C649R", nombre: "Telde, Melenara"},
+			{id: "3245Y", nombre: "Tembleque"},
+			{id: "C447A", nombre: "Tenerife Norte Aeropuerto"},
+			{id: "C429I", nombre: "Tenerife Sur Aeropuerto"},
+			{id: "C656V", nombre: "Teror"},
+			{id: "8368U", nombre: "Teruel"},
+			{id: "C018J", nombre: "Tías"},
+			{id: "3229Y", nombre: "Tielmes"},
+			{id: "C117Z", nombre: "Tijarafe"},
+			{id: "C048W", nombre: "Tinajo"},
+			{id: "1272B", nombre: "Tineo, Soutu"},
+			{id: "7103Y", nombre: "Tobarra"},
+			{id: "3260B", nombre: "Toledo"},
+			{id: "3259", nombre: "Toledo, Lorenzana"},
+			{id: "5788X", nombre: "Tomares, Zaudín"},
+			{id: "4103X", nombre: "Tomelloso"},
+			{id: "0341X", nombre: "Tona"},
+			{id: "9647X", nombre: "Torà"},
+			{id: "9718X", nombre: "Tordera - Granyanella"},
+			{id: "9814X", nombre: "Torla - Ordesa"},
+			{id: "9814I", nombre: "Torla-Ordesa, El Cebollar"},
+			{id: "3514B", nombre: "Tornavacas"},
+			{id: "8503Y", nombre: "Torreblanca"},
+			{id: "3531X", nombre: "Torrecilla de los Angeles"},
+			{id: "9689X", nombre: "Torre de Cabdella"},
+			{id: "3175", nombre: "Torrejón de Ardoz"},
+			{id: "1154H", nombre: "Torrelavega, Sierrapando"},
+			{id: "3272M", nombre: "Torrelodones"},
+			{id: "6088X", nombre: "Torremolinos"},
+			{id: "7026X", nombre: "Torre-Pacheco"},
+			{id: "5165X", nombre: "Torres"},
+			{id: "7218Y", nombre: "Totana"},
+			{id: "1176A", nombre: "Tresviso"},
+			{id: "3463Y", nombre: "Trujillo"},
+			{id: "9302Y", nombre: "Tudela"},
+			{id: "C239N", nombre: "Tuineje,Puerto Gran Tarajal"},
+			{id: "9632X", nombre: "Tuixent"},
+			{id: "8337X", nombre: "Turís"},
+			{id: "2084Y", nombre: "Ucero"},
+			{id: "8309X", nombre: "Utiel"},
+			{id: "9995Y", nombre: "Valcarlos/Luzaide"},
+			{id: "3343Y", nombre: "Valdemorillo"},
+			{id: "4147X", nombre: "Valdepeñas"},
+			{id: "9016X", nombre: "Valderredible, Cubillo de Ebro"},
+			{id: "9935X", nombre: "Valderrobres"},
+			{id: "9115X", nombre: "Valdezcaray"},
+			{id: "8416", nombre: "València"},
+			{id: "8416Y", nombre: "València, Viveros"},
+			{id: "8414A", nombre: "Valencia Aeropuerto"},
+			{id: "3576X", nombre: "Valencia de Alcántara"},
+			{id: "2664B", nombre: "Valencia de Don Juan"},
+			{id: "2422", nombre: "Valladolid"},
+			{id: "2539", nombre: "Valladolid Aeropuerto"},
+			{id: "2422X", nombre: "Valladolid - Vivero Forestal"},
+			{id: "9744B", nombre: "Vall de Boí"},
+			{id: "9207", nombre: "Valle de Hecho, Hecho"},
+			{id: "C458Z", nombre: "Valle de la Orotava"},
+			{id: "C314Z", nombre: "Vallehermoso, Alto Igualero"},
+			{id: "C319W", nombre: "Vallehermoso, Dama"},
+			{id: "C665T", nombre: "Valleseco"},
+			{id: "0034X", nombre: "Valls"},
+			{id: "9501X", nombre: "Valmadrid"},
+			{id: "6281X", nombre: "Válor"},
+			{id: "4263X", nombre: "Valsequillo"},
+			{id: "C928I", nombre: "Valverde"},
+			{id: "4575X", nombre: "Valverde del Camino"},
+			{id: "3547X", nombre: "Valverde del Fresno"},
+			{id: "0002I", nombre: "Vandellòs"},
+			{id: "1178M", nombre: "Vega de Ario, Parque Nacional Picos de Europa"},
+			{id: "1561I", nombre: "Vega de Espinareda"},
+			{id: "C611E", nombre: "Vega de San Mateo"},
+			{id: "1178I", nombre: "Vega de Urriellu, Parque Nacional Picos de Europa"},
+			{id: "5995B", nombre: "Vejer de la Frontera"},
+			{id: "5060X", nombre: "Vélez Blanco - Topares"},
+			{id: "6199X", nombre: "Vélez-Málaga"},
+			{id: "2362C", nombre: "Velilla del Río Carrión, Camporredondo de Alba"},
+			{id: "3121F", nombre: "Venturada"},
+			{id: "2978X", nombre: "Verín"},
+			{id: "1496X", nombre: "Vigo"},
+			{id: "1495", nombre: "Vigo Aeropuerto"},
+			{id: "0066X", nombre: "Vilafranca del Penedès"},
+			{id: "1477V", nombre: "Vilagarcía de Arousa"},
+			{id: "0244X", nombre: "Vilassar de Dalt"},
+			{id: "1541B", nombre: "Villablino"},
+			{id: "1124E", nombre: "Villacarriedo"},
+			{id: "2804F", nombre: "Villadepera"},
+			{id: "2285B", nombre: "Villadiego"},
+			{id: "2276B", nombre: "Villaeles de Valdavia"},
+			{id: "2611D", nombre: "Villafáfila"},
+			{id: "8489X", nombre: "Villafranca del Cid/Vilafranca"},
+			{id: "4395X", nombre: "Villafranca de los Barros"},
+			{id: "2593D", nombre: "Villalón de Campos"},
+			{id: "2311Y", nombre: "Villamayor de los Montes"},
+			{id: "5390Y", nombre: "Villanueva de Córdoba"},
+			{id: "3344E", nombre: "Villanueva de la Cañada"},
+			{id: "5210X", nombre: "Villanueva del Arzobispo"},
+			{id: "4497X", nombre: "Villanueva del Fresno"},
+			{id: "4138Y", nombre: "Villanueva de los Infantes"},
+			{id: "2775X", nombre: "Villardeciervos"},
+			{id: "4075Y", nombre: "Villares del Saz"},
+			{id: "2891A", nombre: "Villarino de los Aires"},
+			{id: "4622X", nombre: "Villarrasa"},
+			{id: "4091Y", nombre: "Villarrobledo"},
+			{id: "5192", nombre: "Villarrodrigo"},
+			{id: "1327A", nombre: "Villayón, Oneta"},
+			{id: "8008Y", nombre: "Villena"},
+			{id: "1399", nombre: "Vimianzo"},
+			{id: "8518X", nombre: "Vinaròs-Viveros Alcanar"},
+			{id: "2005Y", nombre: "Vinuesa, Quintanarejo"},
+			{id: "4148", nombre: "Viso del Marqués"},
+			{id: "2916A", nombre: "Vitigudino"},
+			{id: "9087", nombre: "Vitoria Aeródromo"},
+			{id: "9091R", nombre: "Vitoria-Gasteiz Aeropuerto"},
+			{id: "5515D", nombre: "Víznar"},
+			{id: "8293X", nombre: "Xàtiva"},
+			{id: "1735X", nombre: "Xinzo de Limia"},
+			{id: "C019V", nombre: "Yaiza Playa Blanca"},
+			{id: "7275C", nombre: "Yecla"},
+			{id: "7072Y", nombre: "Yeste"},
+			{id: "7066Y", nombre: "Yeste, Embalse Fuensanta"},
+			{id: "4427X", nombre: "Zafra"},
+			{id: "2614", nombre: "Zamora"},
+			{id: "3021Y", nombre: "Zaorejas"},
+			{id: "9434", nombre: "Zaragoza, Aeropuerto"},
+			{id: "9434P", nombre: "Zaragoza, Valdespartera"},
+			{id: "9433", nombre: "Zaragoza Base Aérea"},
+			{id: "8203O", nombre: "Zarra"},
+			{id: "3540X", nombre: "Zarza La Mayor"},
+			{id: "4347X", nombre: "Zorita"},
+			{id: "1041A", nombre: "Zumaia"},
+			{id: "1037Y", nombre: "Zumarraga"}
+	];
+</script>
+
+<div class="contenedor_redes_sociales">
+
+	 <div class="icono_red_social_cabecera">
+  		<a href="mailto:?subject=&amp;body=:%20http%3A%2F%2Fwww.aemet.es" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&amp;body=' +  encodeURIComponent(document.URL)); return false;"><img src="/imagenes/png/redes_sociales/Email.png" alt="Email"/></a>
+  	</div>
+  	
+	<div class="like">
+  		<a class="message" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.aemet.es&amp;t=" title="Compartir en Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&amp;t=' + encodeURIComponent(document.URL)); return false;">
+  			<img class="vertical_align_mid" src="/imagenes/png/redes_sociales/Facebook.png" alt="Compartir en Facebook"/>
+  		</a>
+  	</div>
+  	
+  	<div class="tweet">
+	  <a href="#" class="message vertical_align_mid" title="Compartir en Twitter" data-via="AEMET_Esp" data-lang="es" data-hashtags="aemet"><img src="/imagenes/png/redes_sociales/Twitter.png" alt="Compartir en Twitter"/></a>
+    </div>
+
+  	<div class="icono_red_social_cabecera ver_movil">
+	  <a href="whatsapp://send?text=https://www.aemet.es/es/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&amp;l=1549&amp;datos=det&amp;w=2&amp;f=tmax&amp;x=d07" class="message" target="_blank" title="Whatsapp">
+	  <img class="vertical_align_mid" src="/imagenes/png/redes_sociales/Whatsapp.png" alt="Whatsapp"/>
+	  </a>       		
+    </div>    
+  	
+	<div class="ico_fondo_redondeado icono_red_social_cabecera boton_red_soc_der" id="ico_imprimir">
+		<img id="link2_imprimir" src="/imagenes/png/iconos/ico-impresora.png" alt="Versión para imprimir (se abrirá en una ventana nueva)" title="Versión para imprimir (se abrirá en una ventana nueva)"/>
+	</div>
+	
+<script type="text/javascript">
+	var API_URL = "http://cdn.api.twitter.com/1/urls/count.json",
+	TWEET_URL = "https://twitter.com/intent/tweet",
+	SEARCH_URL = "https://twitter.com/search";
+	
+	
+	$(".tweet").each(function() {
+		var elem = $(this);
+		
+		url = encodeURIComponent(elem.attr("data-url") || document.URL),
+		
+		text = document.title,
+		via = elem.find(".message").attr("data-via") || "";
+			 
+		elem.find(".message").attr({
+		    href: TWEET_URL + "?source=http%3A%2F%2Fwww.aemet.es&text=" + text + "&url=" + url + "&via=" + via,
+		    target: "_blank"
+		});
+	});
+</script>
+
+<script type="text/javascript">
+	$("#ico_imprimir").on("click", function() {
+	    window.print();
+	});
+</script>
+
+</div></div>
+		</div>
+</div>
+<div class="contenedor_pie">
+		<div class="texto_copy">
+			&copy; AEMET. Autorizado el uso de la información y su reproducción citando a AEMET como autora de la misma.</div>
+		<div class="texto_pie">
+			<ul>
+				<li><a href="/es/mapaweb">Mapa web</a></li>
+					<li class="barra_separadora">|</li>
+					<li><a href="/es/nota_legal">Nota legal</a></li>
+					<li class="barra_separadora">|</li>
+					<li><a href="/es/accesibilidad">Accesibilidad web</a></li>
+					<li class="barra_separadora">|</li>
+					<li><a href="/es/enlaces">Enlaces</a></li>
+					<li class="barra_separadora">|</li>
+					<li><a href="/es/ayuda">Ayuda web</a></li>
+					</ul>
+		</div>		
+		
+		<div class="pie_movil">
+			<div class="pie-ico"> 
+				<p>Widget</p>
+				<div class="d-flex fondo_blanco">
+					<img src="/imagenes/svg/icoconfig.svg"/ alt="ico-widget"> 
+					<a href="/es/eltiempo/widgets"><span>El tiempo en tu web</span></a></div>
+			</div>
+			<div class="pie-ico">
+				<p>Descarga nuestra App</p>
+				<div class="d-flex fondo_blanco">
+					<img src="/imagenes/svg/icono_app.svg" alt="Aplicación oficial 'El Tiempo de AEMET' (Android e iOS) " title="Aplicación oficial 'El Tiempo de AEMET' (Android e iOS) " /> 
+					<a href="/es/app/eltiempodeAEMET"><span>App Oficial Android e iOS</span></a></div>
+			</div>
+			<div class="pie-ico pie-redes">
+				<p>Síguenos</p>
+				<div class="icono_red_social_cabecera">
+						<a href="/es/redes_sociales/facebook/AEMET_facebook"  class="red_social">
+							<img src="/imagenes/svg/Facebook-c.svg" alt="Facebook" title="Facebook" />
+						</a>
+					</div>
+				<div class="icono_red_social_cabecera">
+						<a href="/es/redes_sociales/X/AEMET_X"  class="red_social">
+							<img src="/imagenes/svg/X-c.svg" alt="X" title="X" />
+						</a>
+					</div>
+				<div class="icono_red_social_cabecera">
+						<a href="/es/redes_sociales/instagram/AEMET_Instagram"  class="red_social">
+							<img src="/imagenes/svg/Instagram-c.svg" alt="Instagram" title="Instagram" />
+						</a>
+					</div>
+				<div class="icono_red_social_cabecera">
+						<a href="/es/redes_sociales/threads/AEMET_Threads"  class="red_social">
+							<img src="/imagenes/svg/Threads-c.svg" alt="Threads" title="Threads" />
+						</a>
+					</div>
+				<div class="icono_red_social_cabecera">
+						<a href="/es/redes_sociales/bluesky/AEMET_Bluesky"  class="red_social">
+							<img src="/imagenes/svg/Bluesky-c.svg" alt="Bluesky" title="Bluesky" />
+						</a>
+					</div>
+				<div class="icono_red_social_cabecera">
+						<a href="/es/redes_sociales/linkedin/AEMET_LinkedIn"  class="red_social">
+							<img src="/imagenes/svg/Linkedin-c.svg" alt="LinkedIn" title="LinkedIn" />
+						</a>
+					</div>
+				<div class="icono_red_social_cabecera">
+						<a href="/es/redes_sociales/youtube/AEMET_YouTube"  class="red_social">
+							<img src="/imagenes/svg/Youtube-c.svg" alt="YouTube" title="YouTube" />
+						</a>
+					</div>
+				<div class="icono_red_social_cabecera">
+						<a href="https://aemetblog.wordpress.com" target="_blank" class="red_social">
+							<img src="/imagenes/svg/ico-blog2-c.svg" alt="Blog" title="Blog" />
+						</a>
+					</div>
+				<div class="icono_red_social_cabecera">
+						<a href="/es/rss_info"  class="red_social">
+							<img src="/imagenes/svg/Rss-c.svg" alt="RSS" title="RSS" />
+						</a>
+					</div>
+				</div>
+		</div>	
+		
+		<div class="pie_home">
+			<ul>
+				<li>
+					<a target="_blank" href="http://validator.w3.org/check?uri=referer" >
+						<img src="/imagenes/png/certificados/w3c_xhtml10.png" title="Valida XHTML 1.0 Transicional. (se abrirá en una ventana nueva)" alt="Valida XHTML 1.0 Transicional. (se abrirá en una ventana nueva)"/>
+					</a>
+				</li>
+				<li>
+					<a target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3&amp;usermedium=all&amp;warning=no">
+						<img src="/imagenes/png/certificados/w3c_vcss.gif" title="Certificado W3C Valid CSS. (se abrirá en una ventana nueva)" alt="Certificado W3C Valid CSS. (se abrirá en una ventana nueva)" />
+					</a>
+				</li>
+				<li>
+					<a target="_blank" href="http://www.w3.org/WAI/WCAG1AA-Conformance"	>
+						<img src="/imagenes/png/certificados/w3c_waiAA.gif" title="Icono de conformidad WCAG 1.0 (Nivel AA) del W3C-WAI. Se abrirá en una ventana nueva." alt="Icono de conformidad WCAG 1.0 (Nivel AA) del W3C-WAI. Se abrirá en una ventana nueva."/>
+					</a>
+				</li>
+			
+			</ul>
+			
+		</div>		
+	</div>
+<script type="text/javascript">	
+	function aceptaCookies() 
+	{ 
+		 $.cookie("accept_cookies", "ok", { expires: 1095 ,path: '/' });
+	}
+	
+	var cookie_aemet = $.cookie("accept_cookies");
+	if(cookie_aemet == null)
+	{
+		 $("#popup_cookies").show();
+	}	
+	
+    $(document).ready(function () {
+        	var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+        	if (isSafari){
+        		$aspectRatio = "xMidYMid meet";
+        		var svg = document.getElementsByClassName("svg")[0];
+        		if (svg != null && svg !='') {
+	        		svg=svg.setAttribute("preserveAspectRatio", $aspectRatio);
+	        		svg = document.getElementsByClassName("svg_maritima")[0];
+	        		svg=svg.setAttribute("preserveAspectRatio", $aspectRatio);
+	        		svg = document.getElementsByClassName("svg_satelite")[0];
+	        		svg=svg.setAttribute("preserveAspectRatio", $aspectRatio);
+	        		svg = document.getElementsByClassName("svg_alta_mar")[0];
+	        		svg=svg.setAttribute("preserveAspectRatio", $aspectRatio);
+        		}
+        	}
+    });
+	
+	 new WOW().init();
+
+	</script>
+<script type="text/javascript" src="/js/comun/semaforo-cabecera.js"></script>
+</body>
+</html>
