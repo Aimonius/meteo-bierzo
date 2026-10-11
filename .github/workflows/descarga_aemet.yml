@@ -18,7 +18,7 @@ jobs:
       - name: Descargar XLS de AEMET
         run: |
           FECHA=$(date +'%Y-%m-%d')
-          URL="https://www.aemet.es/es/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&l=1549&datos=det&w=2&f=tmax&x=d07"
+          URL="https://www.aemet.es/es/eltiempo/observacion/ultimosdatos_1549_resumenes-diarios-anteriores.xls?k=cle&l=1549&datos=det&w=2&f=tmax&x=d07#"
           curl -sL -A "Mozilla/5.0" "$URL" -o "datos_aemet/aemet_1549_${FECHA}.xls"
 
       - name: Comprobar que el archivo no está vacío
